@@ -1,5 +1,59 @@
 # Industrial cybersecurity news
 
+## [VULNERABILITY] mymbCONNECT24 and mbCONNECT24 - MB Connect Line
+_02/10/2020_
+```
+Vulnerability affects:
+- mymbCONNECT24 v2.6.1 and prior
+- mbCONNECT24 v2.6.1 and prior
+
+Vulnerability risks:
+- Cross-Site Request Forgery
+- SQL injection
+ -Remote code execution
+
+```
+
+> ###### Sources :
+- [EN] [OTORIA](https://www.otorio.com/news-events/press-release/otorio-discovers-critical-vulnerabilities-in-leading-industrial-remote-access-software-solutions/)
+- [EN] [The Hacker News](https://thehackernews.com/2020/10/industrial-remote-access.html)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-273-01)
+- [EN] [MB CONNECT LINE](https://mbconnectline.com/security-advice/)
+
+
+> ###### CVE :
+> - [EN] [CVE-2020-24569](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24569)
+> - [EN] [CVE-2020-24568](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-24568)
+> - [EN] [CVE-2020-24570](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24570)
+---
+## [VULNERABILITY] SiteManager GateManager
+_02/10/2020_
+```
+Vulnerability affects:
+- SiteManager all versions prior to v9.2.620236042 
+- GateManager 4260 and 9250 all versions prior to v9.0.20262 
+- GateManager 8250 all versions prior to v9.2.620236042 
+
+Vulnerability risks:
+- Remote code execution
+ 
+```
+
+> ###### Sources :
+- [EN] [OTORIA](https://www.otorio.com/news-events/press-release/otorio-discovers-critical-vulnerabilities-in-leading-industrial-remote-access-software-solutions/)
+- [EN] [The Hacker News](https://thehackernews.com/2020/10/industrial-remote-access.html)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-273-03)
+- [DE] [CERT DE](https://cert.vde.com/de-de/advisories/vde-2020-035)
+- [EN] [BR AUTOMATION](https://www.br-automation.com/downloads_br_productcatalogue/assets/1600003183756-de-original-1.0.pdf)
+
+> ###### CVE :
+> - [EN] [CVE-2020-11641](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-11641)
+> - [EN] [CVE-2020-11642](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-11642)
+> - [EN] [CVE-2020-11643](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-11643)
+> - [EN] [CVE-2020-11644](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-11644)
+> - [EN] [CVE-2020-11645](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-11645)
+> - [EN] [CVE-2020-11646](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-11646)
+
 ---
 ## [VULNERABILITY] Cisco IOS Software
 _25/09/2020_
