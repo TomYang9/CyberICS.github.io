@@ -1,5 +1,25 @@
 # Industrial cybersecurity news
 
+
+---
+## [VULNERABILITY] WideFieled3 - Yokogawa 
+_03/10/2020_
+```
+Vulnerability affects:
+- WideFieled3 R1.0 1 - R4.0
+
+Vulnerability risks:
+- Buffer overflow by loading malicious projects and terminate the application abnormally
+```
+
+> ###### Sources :
+- [EN] [Yokogawa](https://web-material3.yokogawa.com/1/30026/files/YSAR-20-0002-E.pdf)
+
+> ###### CVE :
+> - [EN] [CVE-2020-16232](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-16232)
+
+---
+
 ## [VULNERABILITY] mymbCONNECT24 and mbCONNECT24 - MB Connect Line
 _02/10/2020_
 ```
