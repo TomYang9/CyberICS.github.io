@@ -468,6 +468,7 @@ The list of assigned vendors is in the (source) article in JSOF.
 - [EN] [Claroty](https://blog.claroty.com/research/ripple20-new-remote-code-execution-vulnerabilities-affect-millions-of-devices)
 - [EN] [POC on Youtube](https://youtu.be/jkfNE_Twa1s)
 - [EN] [Yara rules Github](https://github.com/CERTCC/PoC-Exploits/blob/master/vu-257161/vu-257161.rules) 
+- [EN] [Emerson](https://www.emerson.com/documents/automation/emr-ripple20-notification-final-as-of-7-23-2020-en-7022076.pdf)
 ---
 ## [RESSOURCES] The Honeypot in a SCADA environment in 2020.
 
