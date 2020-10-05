@@ -1,5 +1,38 @@
 # Industrial cybersecurity news
 
+---
+## [VULNERABILITY] Stormshield Network Security (SNi40 and SNi20)  
+_05/10/2020_
+```
+Vulnerability affects:
+- Stormshield Network Security (SNS) versions prior to 4.1.1 (check)
+
+Vulnerability risks:
+- Remote denial of service
+- Data privacy breach
+- Privilege escalation
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Stormshield](https://advisories.stormshield.eu/2019-013/)
+- [EN] [Stormshield](https://advisories.stormshield.eu/2019-026/)
+- [EN] [Stormshield](https://advisories.stormshield.eu/2020-013/)
+- [EN] [Stormshield](https://advisories.stormshield.eu/2020-012/)
+- [FR] [ANSSI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2020-AVI-618/)
+
+> ###### CVE :
+> - [EN] [CVE-2016-8858](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8858)
+> - [EN] [CVE-2019-0184](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-0184)
+> - [EN] [CVE-2019-0123](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-0123)
+> - [EN] [CVE-2019-11139](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11139)
+> - [EN] [CVE-2018-12207](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-12207)
+> - [EN] [CVE-2019-11157](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11157)
+> - [EN] [CVE-2019-14607](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-14607)
+> - [EN] [CVE-2019-0117](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-0117)
+> - [EN] [CVE-2020-0548](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-0548)
+> - [EN] [CVE-2020-0549](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-0549)
 
 ---
 ## [VULNERABILITY] WideFieled3 - Yokogawa 
