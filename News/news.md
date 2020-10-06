@@ -1,4 +1,14 @@
 # Industrial cybersecurity news
+---
+## [ATTACK] Phishing campaigns against Russian companies 
+
+_06/10/2020_
+```
+Spear phishing campaigns threaten Russian fuel andenergy companies
+```
+
+> ###### Sources :
+- [EN] [Dr.web](https://st.drweb.com/static/new-www/news/2020/september/tek_rf_article_en.pdf)
 
 ---
 ## [VULNERABILITY] Stormshield Network Security (SNi40 and SNi20)  
