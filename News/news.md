@@ -1,4 +1,18 @@
 # Industrial cybersecurity news
+
+---
+## [ATTACK] Azerbaijan is the target of attack on its energy infrastructure 
+
+_06/10/2020_
+```
+These campaigns mainly target wind turbines and the public energy sector in Azerbaijan.
+```
+
+> ###### Sources :
+- [EN] [Alienvault](https://otx.alienvault.com/pulse/5f7c8727aa6458e8f0aa386c)
+- [EN] [Talos - Cisco](https://blog.talosintelligence.com/2020/10/poetrat-update.html)
+- [EN] [Talos - Cisco](https://blog.talosintelligence.com/2020/04/poetrat-covid-19-lures.html)
+
 ---
 ## [ATTACK] Phishing campaigns against Russian companies 
 
