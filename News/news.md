@@ -1,4 +1,23 @@
 # Industrial cybersecurity news
+---
+## [VULNERABILITY] Johnson Controls Sensormatic Electronics American Dynamics victor Web Client
+_08/10/2020_
+```
+Vulnerability affects :
+- American Dynamics victor Web Client: All versions up to and including v5.4.1
+
+Vulnerability risks:
+- DoS
+- RCE (delete arbitrary files on the system)
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-282-01)
+
+> ###### CVE :
+> - [EN] [CVE-2020-9048](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-9048)
 
 ---
 ## [ATTACK] Azerbaijan is the target of attack on its energy infrastructure 
