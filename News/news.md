@@ -1,4 +1,29 @@
 # Industrial cybersecurity news
+
+
+---
+## [VULNERABILITY] Mitsubishi Electric MELSEC iQ-R Series
+_08/10/2020_
+```
+Vulnerability affects MELSEC iQ-R series modules are affected:
+- R00/01/02CPU, all versions
+- R04/08/16/32/120(EN)CPU, all versions
+- R08/16/32/120SFCPU, all versions
+- R08/16/32/120PCPU, all versions
+- R16/32/64MTCPU, all versions
+
+Vulnerability risks:
+-  denial-of-service condition due to uncontrolled resource consumption
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-282-02)
+
+> ###### CVE :
+> - [EN] [CVE-2020-16850](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-16850)
+
 ---
 ## [VULNERABILITY] Johnson Controls Sensormatic Electronics American Dynamics victor Web Client
 _08/10/2020_
