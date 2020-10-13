@@ -2,10 +2,37 @@
 
 
 ---
+## [VULNERABILITY] PCvue, WebVue, WebScheduler, TouchVue 
+_13/10/2020_
+```
+Vulnerability affects PCvue :
+- ARC Informatique PcVue 12.0.7 (including) through 12.0.17 (excluding)
+- ARC Informatique PcVue 8.10 (including) through 12.0.17 (excluding)
+- WebVue, the WebScheduler or the TouchVue
+
+Vulnerability risks:
+- DoS
+- RCE
+
+PoC exist for exploit this vulnerabilities.
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [kaspersky](https://ics-cert.kaspersky.com/advisories/klcert-advisories/2020/10/09/klcert-20-016-denial-of-service-in-arc-informatique-pcvue/)
+- [EN] [kaspersky](https://ics-cert.kaspersky.com/advisories/klcert-advisories/2020/10/09/klcert-20-015-remote-code-execution-in-arc-informatique-pcvue/)
+- [EN] [kaspersky](https://ics-cert.kaspersky.com/advisories/klcert-advisories/2020/10/09/klcert-20-017-session-information-exposure-in-arc-informatique-pcvue/)
+
+> ###### CVE :
+> - [EN] [CVE-2020-26867](https://nvd.nist.gov/vuln/detail/CVE-2020-26867)
+> - [EN] [CVE-2020-26868](https://nvd.nist.gov/vuln/detail/CVE-2020-26868)
+> - [EN] [CVE-2020-26869](https://nvd.nist.gov/vuln/detail/CVE-2020-26869)
+
+---
 ## [VULNERABILITY] Mitsubishi Electric MELSEC iQ-R Series
 _08/10/2020_
 ```
-Vulnerability affects MELSEC iQ-R series modules are affected:
+Vulnerability affects MELSEC iQ-R series modules :
 - R00/01/02CPU, all versions
 - R04/08/16/32/120(EN)CPU, all versions
 - R08/16/32/120SFCPU, all versions
