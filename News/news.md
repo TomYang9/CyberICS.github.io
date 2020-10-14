@@ -1,6 +1,33 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] Moxa Nport IAW5000A-I/O
+_14/10/2020_
+```
+Vulnerability affects :
+- Moxa NPort IAW5000A-I/O Series Serial Device Servers – versions 2.1 and prior
+
+Vulnerability risks:
+- hijack the session by stealing the user’s cookies
+- privilege escalation
+- Authentification bypass
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Moxa](https://www.moxa.com/en/support/support/security-advisory/nport-iaw5000a-io-serial-device-servers-vulnerabilities)
+- [EN] [Canadian Centre for Cyber Security](https://cyber.gc.ca/en/alerts/control-systems-moxa-security-advisory-2)
+
+> ###### CVE :
+> - [EN] [CVE-2020-25198](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25198)
+> - [EN] [CVE-2020-25194](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25194)
+> - [EN] [CVE-2020-25153](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25153)
+> - [EN] [CVE-2020-25190](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25190)
+> - [EN] [CVE-2020-25196](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25196)
+> - [EN] [CVE-2020-25192](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25192)
+
+---
 ## [VULNERABILITY] multiple vulnerability in Siemens product
 _14/10/2020_
 ```
