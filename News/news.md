@@ -78,6 +78,7 @@ See the documents below for more information
 
 > ###### Sources :
 - [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-282-02)
+- [EN] [Canadian Centre for Cyber Security](https://cyber.gc.ca/en/alerts/control-systems-mitsubishi-electric-security-advisory-8)
 
 > ###### CVE :
 > - [EN] [CVE-2020-16850](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-16850)
