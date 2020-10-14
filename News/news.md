@@ -1,5 +1,36 @@
 # Industrial cybersecurity news
 
+---
+## [VULNERABILITY] multiple vulnerability in Siemens product
+_14/10/2020_
+```
+Vulnerability affects :
+- Multiple Web Application Vulnerabilities in Desigo Insight
+- Authentication Bypass Vulnerability in SIPORT MP
+- Improper Password Protection during Authentication in SIMATIC S7-300 and S7-400 CPUs and Derived Products
+- Vulnerabilities in Intel CPUs (November 2019)
+- Vulnerabilities in the additional GNU/Linux subsystem of the SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP
+- WIBU Systems CodeMeter Runtime Vulnerabilities in Siemens and Siemens Energy Products
+- Vulnerability known as TCP SACK PANIC in Industrial Products
+- Special Register Buffer Data Sampling (SRBDS) aka Crosstalk in Industrial Products
+- DNSMasq Vulnerabilities in SCALANCE W1750D, SCALANCE M-800 / S615 and RUGGEDCOM RM1224
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Canadian Centre for Cyber Security](https://cyber.gc.ca/en/alerts/control-systems-siemens-security-advisory-14)
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-534763.pdf)
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-462066.pdf)
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-455843.pdf)
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssb-439005.pdf)
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-398519.pdf)
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-381684.pdf)
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-384879.pdf)
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-226339.pdf)
+
+> ###### CVE :
+> - [EN] [CVE-2020-16850](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-16850)
 
 ---
 ## [VULNERABILITY] PCvue, WebVue, WebScheduler, TouchVue 
