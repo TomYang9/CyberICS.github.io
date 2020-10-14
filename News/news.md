@@ -1,5 +1,27 @@
 # Industrial cybersecurity news
 
+
+---
+## [VULNERABILITY] Allen-Bradley Flex I/O
+_14/10/2020_
+```
+Vulnerability affects :
+- Allen-Bradley Flex I/O
+
+Vulnerability risks:
+- DoS
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Talos - Cisco](https://blog.talosintelligence.com/2020/10/vuln-spotlight-allen-bradley-dos-flex-io.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29)
+- [EN] [Talos vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2020-1006)
+
+> ###### CVE :
+> - [EN] [CVE-2020-6084](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-6084)
+> - [EN] [CVE-2020-6085](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-6085)
+
 ---
 ## [VULNERABILITY] Schneider Electric
 _14/10/2020_
@@ -85,20 +107,20 @@ See the documents below for more information
 - [FR] [CERT-FR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2020-AVI-643/)
 
 > ###### CVE :
-> - [EN] [CVE-2017-6028](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-6028
-> - [EN] [CVE-2020-11896](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-11896
-> - [EN] [CVE-2020-11898](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-11898
-> - [EN] [CVE-2020-7545](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7545
-> - [EN] [CVE-2020-7546](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7546
-> - [EN] [CVE-2020-7547](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7547
-> - [EN] [CVE-2020-7548](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7548
-> - [EN] [CVE-2020-14509](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14509
-> - [EN] [CVE-2020-14513](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14513
-> - [EN] [CVE-2020-14515](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14515
-> - [EN] [CVE-2020-14517](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14517
-> - [EN] [CVE-2020-14519](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14519
-> - [EN] [CVE-2020-16233](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-16233
-> - [EN] [CVE-2020-7533](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7533
+> - [EN] [CVE-2017-6028](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-6028)
+> - [EN] [CVE-2020-11896](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-11896)
+> - [EN] [CVE-2020-11898](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-11898)
+> - [EN] [CVE-2020-7545](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7545)
+> - [EN] [CVE-2020-7546](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7546)
+> - [EN] [CVE-2020-7547](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7547)
+> - [EN] [CVE-2020-7548](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7548)
+> - [EN] [CVE-2020-14509](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14509)
+> - [EN] [CVE-2020-14513](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14513)
+> - [EN] [CVE-2020-14515](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14515)
+> - [EN] [CVE-2020-14517](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14517)
+> - [EN] [CVE-2020-14519](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14519)
+> - [EN] [CVE-2020-16233](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-16233)
+> - [EN] [CVE-2020-7533](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7533)
 
 ---
 ## [VULNERABILITY] LCDS LAquis SCADA
