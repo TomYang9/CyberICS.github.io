@@ -1,6 +1,27 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] FieldComm
+_14/10/2020_
+```
+Vulnerability affects :
+- HART-IP Developer kit – version 1.0.0.0
+- hipserver – versions prior to v3.7.0
+
+Vulnerability risks:
+- Bufferoverflow
+- Authentication bypass
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [FieldComm](https://support.fieldcommgroup.org/en/support/solutions/articles/8000088791-2020-10-06-vulnerability-in-hipserver-cve-2020-162090)
+
+> ###### CVE :
+> - [EN] [CVE-2020-16209](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-16209)
+
+---
 ## [VULNERABILITY] Moxa Nport IAW5000A-I/O
 _14/10/2020_
 ```
