@@ -1,6 +1,22 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] LCDS LAquis SCADA
+_14/10/2020_
+```
+Vulnerability affects :
+- LCDS LAquis SCADA - versions prior to 4.3.1.870.
+
+Vulnerability risks:
+-  execute code under the privileges of the application
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-287-02)
+
+---
 ## [VULNERABILITY] FieldComm
 _14/10/2020_
 ```
