@@ -98,6 +98,7 @@ See the documents below for more information
 
 > ###### Sources :
 - [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-282-01)
+- [EN] [Johnson](https://www.johnsoncontrols.com/-/media/jci/cyber-solutions/product-security-advisories/2020/jci-psa-2020-09-v1-victor-web-client.pdf?la=en&hash=9FA57217EF5D2F3BA62A5749D24855D9819C7CBC)
 
 > ###### CVE :
 > - [EN] [CVE-2020-9048](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-9048)
