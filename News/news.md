@@ -1,6 +1,106 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] Schneider Electric
+_14/10/2020_
+```
+Vulnerability affects :
+- Modicon M241 and M251 Logic Controller firmware versions prior to 5.0.8.4
+- Modicon Quantum Co-processors ref. 140CPU6
+- Modicon Premium Co-processors ref TSXP and TSXH
+- Modicon Quantum Ethernet communication modules ref.140NOE and 140NOC
+- Modicon Premium Ethernet communication modules ref. TSXETY
+- Modicon M340 CPU ref BMXP34
+- Modicon M340 Ethernet communication Modules ref. BMXNOC, BMXNOE, BMXNOR
+- Modicon Momentum Ethernet MDI
+- ATV340E Altivar Machine Drives 3.1IE23 and earlier versions
+- ATV6000 Medium Voltage AltivarProcess Drives 1.1IE02 and earlier versions
+- ATV630/650/660/680/6A0/6B0 Altivar Process Drives 2.6IE31 and earlier versions
+- ATV930/950/960/980/9A0/9B0 Altivar Process Drives 3.1IE24 and earlier versions
+- SCADAPack 32 RTUsAll versions 2.24 and earlier
+- TM3BC bus coupler module EIP, SL and CANOpen all versions
+- VW3A3720, VW3A3721 Altivar ProcessCommunication Modules 1.15IE18 and earlier versions
+- ZBRCETH Modbus TCP communication module for ZBRN1 Harmony Hub 02.03 and earlier versions
+- XUPH001 OsSense communication module all versions
+- XGCS850C201 OsiSense RFID compact smart antenna all versions
+- ACE850 Sepam communication interface all versions
+- Acti9 PowerTag Link C and Link HD all versions
+- Acti9 Smartlink IP, Acti9 Smartlink EL B and EL D, Acti9 Smartlink SI B and SI D all versions
+- EcoStruxure Building SmartX IP MP and IP RP Controllers all versions
+- Andover Continuum controller (NetController 1 (NC1) = model CX9900, NetController 2 (NC2) = model CX9680, ACX2 = models ACX5720 and ACX5740, series CX9200, series CX9400, CX9924, CX9702, series BCX4040, series BCX9640) all versions
+- PowerLogic EGX300 Ethernet Gateway all versions
+- EGX150/Link150 Ethernet Gateway all versions
+- eIFE Ethernet Interface for circuit breakers MasterPact MTZ drawout all versions
+- IFE Ethernet Interface for ComPact, PowerPact, and MasterPact circuit breakers all versions
+- IFE Gateway all versions
+- PowerLogic PM5000 series measuring station all versions
+- TeSys T LTMR08EBD Motor Controller all versions
+- Smart-UPS and Symmetra UPS Network Management Card 1 (NMC1) SmartSlot (models AP9617 (end of support Nov 2011), AP9619 (end of support Sep 2012), AP9618 (end of support Jan 2017), Audio/Video Network Management Enabled products (S20BLK, G50NETB2, G50NETB-20A2)) AOS 3.9.2 and earlier versions
+- Network Management Card 3 (NMC3) SmartSlot (models AP9640/AP9640J, AP9641/AP9641J) AOS 1.3.0.6 and earlier versions
+- Embedded NMC1 (Metered/Switched Rack PDUs with embedded NMC1, AP78XX, AP79XX) AOS 3.9.2 and earlier versions
+- Embedded NMC2 (2G Metered/Switched Rack PDUs with embedded NMC2, AP84XX, AP86XX, AP88XX, AP89XX)
+- AOS 6.8.8 and earlier versions
+- Embedded NMC1 (Battery Management System, AP9921X, Rack Automatic Transfer Switches, AP77XX, AP9320, AP9340, AP9361, NetBotz NBRK0200, NetworkAir, InRow) AOS 3.9.2 and previous versions
+- Embedded NMC2 (Battery Manager, AP9922, Rack Automatic Transfer Switches, AP44XX, NetBotz NBRK0250) AOS 6.8.8 and older
+- Wiser Energy IP module by Schneider Electric (EER31800) all versions
+- Wiser Energy IP module by Clipsal (EER72600) all versions
+- Gateway Connector by Elko (EKO01827) all versions
+- EcoStruxure™Power Monitoring Expert versions 7.x, 8.x and 9.0
+- EcoStruxure™Energy Expert version 2.0
+- Power Manager versions 1.1, 1.2 and 1.3
+- StruxureWare™ PowerSCADA Expert with Advanced Reporting and Dashboards Module versions 8.x
+- EcoStruxure™Power SCADA Operation with Advanced Reporting and Dashboards Module version 9.0
+- Acti9 Smartlink SI D and SI B 002.004.002 and earlier versions
+- Acti9 PowerTag Link / Link HD 001.008.007 and earlier versions
+- Acti9 Smartlink EL B 1.2.1 and earlier versions
+- Wiser Link 1.5.0 and previous versions
+- Wiser Energy 1.5.0 and previous versions
+- EcoStruxure Machine Expert (previously SoMachine and SoMachine Motion) all versions
+- E+PLC400, E+PLC100 and E+PLC_Setup all versions
+- EcoStruxure Expert SCADA Machine all versions
+- M340 CPUs (BMX P34x) firmware versions prior to 3.20
+- M340 Communication Ethernet modules BMX NOE 0100 (H) versions prior to 3.3, BMX NOE 0110 (H) versions prior to 6.5, BMX NOC 0401 versions prior to 2.10
+- Premium processors with integrated Ethernet COPRO (TSXP574634, TSXP575634, TSXP576634) versions prior to 6.1
+- Premium communication modules TSXETY4103 versions earlier than 6.2, TSXETY5103 versions earlier than 6.4
+- Quantum processors with integrated Ethernet COPRO 140CPU65xxxxx versions prior to 6.1
+- Quantum communication modules 140NOE771x1 versions previous to 7.1, 140NOC78x00 versions previous to 1.74, 140NOC77101 versions previous to 1.08
+
+Vulnerability risks:
+- Remote execution of arbitrary code
+- Denial of Service
+- Bypassing the security policy
+- Data Integrity Breaches
+- Breach of confidentiality of data
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Schneider Electric](https://www.se.com/ww/en/download/document/SEVD-2017-075-03/)
+- [EN] [Schneider Electric](https://www.se.com/ww/en/download/document/SEVD-2020-175-01/)
+- [EN] [Schneider Electric](https://www.se.com/ww/en/download/document/SEVD-2020-287-04/)
+- [EN] [Schneider Electric](https://www.se.com/ww/en/download/document/SEVD-2020-287-03/)
+- [EN] [Schneider Electric](https://www.se.com/ww/en/download/document/SEVD-2020-287-02/)
+- [EN] [Schneider Electric](https://www.se.com/ww/en/download/document/SEVD-2020-287-01/)
+- [FR] [CERT-FR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2020-AVI-643/)
+
+> ###### CVE :
+> - [EN] [CVE-2017-6028](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-6028
+> - [EN] [CVE-2020-11896](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-11896
+> - [EN] [CVE-2020-11898](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-11898
+> - [EN] [CVE-2020-7545](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7545
+> - [EN] [CVE-2020-7546](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7546
+> - [EN] [CVE-2020-7547](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7547
+> - [EN] [CVE-2020-7548](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7548
+> - [EN] [CVE-2020-14509](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14509
+> - [EN] [CVE-2020-14513](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14513
+> - [EN] [CVE-2020-14515](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14515
+> - [EN] [CVE-2020-14517](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14517
+> - [EN] [CVE-2020-14519](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14519
+> - [EN] [CVE-2020-16233](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-16233
+> - [EN] [CVE-2020-7533](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7533
+
+---
 ## [VULNERABILITY] LCDS LAquis SCADA
 _14/10/2020_
 ```
