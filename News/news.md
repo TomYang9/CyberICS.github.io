@@ -1,5 +1,24 @@
 # Industrial cybersecurity news
 
+
+---
+## [VULNERABILITY] R-SeeNet (Advantech)
+_16/10/2020_
+```
+Vulnerability affects :
+- R-SeeNet Versions 1.5.1 through 2.4.10
+
+Vulnerability risks:
+- SQL injection
+
+Patch available : https://ep.advantech-bb.cz/products/software/r-seenet
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-289-02)
+- [EN] [Advantech](https://ep.advantech-bb.cz/support/router-models/download/239/sa-2020-01-01-r-seenet-2-4-10-vulnerability-en.pdf)
+
 ---
 ## [VULNERABILITY] Wibu-Systems CodeMeter
 _16/10/2020_
