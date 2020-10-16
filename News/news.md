@@ -1,5 +1,36 @@
 # Industrial cybersecurity news
 
+---
+## [VULNERABILITY] Wibu-Systems CodeMeter
+_16/10/2020_
+```
+Vulnerability affects :
+- All versions prior to 7.10a are affected by CVE-2020-14509 and CVE-2020-14519
+- All versions prior to 7.10a are affected by CVE-2020-14517
+- All versions prior to 7.10 are affected by CVE-2020-16233
+- All versions prior to 6.81 are affected by CVE-2020-14513 
+- All versions prior to 6.90 are affected by CVE-2020-14515 when using -CmActLicense update files with CmActLicense Firm Code
+
+Vulnerability risks:
+- Buffer Access with Incorrect Length Value
+- Inadequate Encryption Strength
+- Origin Validation Error
+- Improper Input Validation
+- Improper Verification of Cryptographic Signature
+- Improper Resource Shutdown or Release
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-203-01)
+
+> ###### CVE :
+> - [EN] [CVE-2020-14519](https://cve.mitre.org/cgi-bin/cvename.bin?name=CVE-2020-14519)
+> - [EN] [CVE-2020-14517](https://cve.mitre.org/cgi-bin/cvename.bin?name=CVE-2020-14517)
+> - [EN] [CVE-2020-16233](https://cve.mitre.org/cgi-bin/cvename.bin?name=CVE-2020-16233)
+> - [EN] [CVE-2020-14513](https://cve.mitre.org/cgi-bin/cvename.bin?name=CVE-2020-14513)
+> - [EN] [CVE-2020-14515](https://cve.mitre.org/cgi-bin/cvename.bin?name=CVE-2020-14515)
 
 ---
 ## [VULNERABILITY] Allen-Bradley Flex I/O
