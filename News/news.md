@@ -1,5 +1,21 @@
 # Industrial cybersecurity news
 
+---
+## [VULNERABILITY] WebAccess/SCADA (Advantech)
+_16/10/2020_
+```
+Vulnerability affects :
+- WebAccess/SCADA Versions 9.0 and prior
+
+Vulnerability risks:
+- Remote Code Execution
+
+Patch available : https://support.advantech.com/support/DownloadSRDetail_New.aspx?SR_ID=1-1J6QG9J&Doc_Source=Download
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-289-01)
 
 ---
 ## [VULNERABILITY] R-SeeNet (Advantech)
