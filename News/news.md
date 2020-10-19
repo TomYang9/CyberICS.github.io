@@ -16,6 +16,7 @@ See the documents below for more information
 
 > ###### Sources :
 - [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-289-01)
+- [EN] [Canadian Centre for Cyber Security](https://cyber.gc.ca/en/alerts/control-systems-advantech-security-advisory-10)
 
 ---
 ## [VULNERABILITY] R-SeeNet (Advantech)
