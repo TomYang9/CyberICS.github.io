@@ -1,5 +1,26 @@
 # Industrial cybersecurity news
 
+---
+## [VULNERABILITY] XMC20 Multiservice-Multiplexer - Hitachi ABB Power Grids
+_20/10/2020_
+```
+Vulnerability affects :
+- XMC20 R4 using COGE5 versions older than co5ne_r1h07_12.esw
+- XMC20 R6 using COGE5 versions older than co5ne_r2d14_03.esw
+
+
+Vulnerability risks: 
+- Bypass authentification (Improper Authentication)
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-294-01)
+- [EN] [HITACHI](https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A2862&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+> ###### CVE :
+> - [EN] [CVE-2018-10933](https://nvd.nist.gov/vuln/detail/CVE-2018-10933)
 
 ---
 ## [VULNERABILITY] 1794-AENT Flex I/O Series B Rockwell Automation
@@ -16,7 +37,7 @@ See the documents below for more information
 
 > ###### Sources :
 - [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-294-01)
-- [FR] [Rockwell - login required](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1128093/loc/en_US#__highlight)
+- [EN] [Rockwell - login required](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1128093/loc/en_US#__highlight)
 
 ---
 ## [VULNERABILITY] WebAccess/SCADA (Advantech)
