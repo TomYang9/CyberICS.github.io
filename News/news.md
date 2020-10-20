@@ -1,6 +1,28 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] WECON LeviStudioU
+_20/10/2020_
+```
+Vulnerability affects :
+- LeviStudioU: Version 2019-09-21 and prior
+
+Vulnerability risks: 
+- Stack-based Buffer Overflow
+- Improper Restriction of XML External Entity Reference
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-238-03)
+- [EN] [HITACHI](https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A2862&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+> ###### CVE :
+> - [EN] [CVE-2020-16243](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-16243)
+
+---
+
 ## [VULNERABILITY] XMC20 Multiservice-Multiplexer - Hitachi ABB Power Grids
 _20/10/2020_
 ```
@@ -16,7 +38,7 @@ See the documents below for more information
 ```
 
 > ###### Sources :
-- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-294-01)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-294-02)
 - [EN] [HITACHI](https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A2862&LanguageCode=en&DocumentPartId=&Action=Launch)
 
 > ###### CVE :
