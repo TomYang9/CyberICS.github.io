@@ -1,5 +1,23 @@
 # Industrial cybersecurity news
 
+
+---
+## [VULNERABILITY] 1794-AENT Flex I/O Series B Rockwell Automation
+_20/10/2020_
+```
+Vulnerability affects :
+- 1794-AENT Flex I/O, Series B, Versions 4.003 and prior
+
+Vulnerability risks: 
+- Buffer Overflow (Exploitable remotely)
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-294-01)
+- [FR] [Rockwell - login required](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1128093/loc/en_US#__highlight)
+
 ---
 ## [VULNERABILITY] WebAccess/SCADA (Advantech)
 _16/10/2020_
