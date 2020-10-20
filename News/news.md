@@ -1,6 +1,27 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] Capsule Technologies SmartLinx Neuron 2
+_20/10/2020_
+```
+Vulnerability affects :
+- Capsule Technologies SmartLinx Neuron 2: Firmware Versions 9.0.3 and older
+
+Vulnerability risks: 
+- Protection Mechanism Failure
+
+Patch is available (notice [here](https://us-cert.cisa.gov/ics/advisories/icsma-20-196-01)) 
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsma-20-196-01)
+- [EN] [Talos - Cisco](https://talosintelligence.com/vulnerability_reports/TALOS-2019-0785)
+
+> ###### CVE :
+> - [EN] [CVE-2019-5024](https://nvd.nist.gov/vuln/detail/CVE-2019-5024)
+
+---
 ## [VULNERABILITY] WECON LeviStudioU
 _20/10/2020_
 ```
