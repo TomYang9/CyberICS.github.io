@@ -61,6 +61,7 @@ See the documents below for more information
 > ###### Sources :
 - [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-294-02)
 - [EN] [HITACHI](https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A2862&LanguageCode=en&DocumentPartId=&Action=Launch)
+- [EN] [Canadian Centre for Cyber Security](https://cyber.gc.ca/en/alerts/control-systems-hitachi-abb-power-grids-security-advisory)
 
 > ###### CVE :
 > - [EN] [CVE-2018-10933](https://nvd.nist.gov/vuln/detail/CVE-2018-10933)
@@ -81,6 +82,7 @@ See the documents below for more information
 > ###### Sources :
 - [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-294-01)
 - [EN] [Rockwell - login required](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1128093/loc/en_US#__highlight)
+- [EN] [Canadian Centre for Cyber Security](https://cyber.gc.ca/en/alerts/control-systems-rockwell-automation-security-advisory-7)
 
 ---
 ## [VULNERABILITY] WebAccess/SCADA (Advantech)
