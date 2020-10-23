@@ -1,6 +1,54 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] B. Braun Melsungen AG
+_23/10/2020_
+```
+Vulnerability affects :
+-  SpaceCom, software Versions U61 and earlier (United States), L81 and earlier (outside the United States)
+- Battery pack with Wi-Fi, software Versions U61 and earlier (United States), L81 and earlier (outside the United States)
+- Data module compactplus, software Versions A10 and A11 (not distributed in the United States)
+- AP 3.0 and earlier
+
+Vulnerability risks: 
+-  Relative Path Traversal
+- Uncontrolled Search Path Element
+- Improper Neutralization of Formula Elements in a CSV File
+- XSS
+- Open Redirect
+- XPath Injection
+- Session Fixation 
+- Use of a One-way Hash without a Salt
+- Relative Path Traversal
+- Improper Verification of Cryptographic Signature
+- Improper Privilege Management
+- Use of Hard-coded Credentials
+- Active Debug Code
+- Improper Access Control
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsma-20-296-01)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsma-20-296-02)
+- [EN] [B. Braun](https://www.bbraun.com/en/products-and-therapies/services/b-braun-vulnerability-disclosure-policy/security-advisory.html) 
+
+> ###### CVE :
+> - [EN] [CVE-2020-25158](https://nvd.nist.gov/vuln/detail/CVE-2020-25158)
+> - [EN] [CVE-2020-25154](https://nvd.nist.gov/vuln/detail/CVE-2020-25154)
+> - [EN] [CVE-2020-25162](https://nvd.nist.gov/vuln/detail/CVE-2020-25162)
+> - [EN] [CVE-2020-25152](https://nvd.nist.gov/vuln/detail/CVE-2020-25152)
+> - [EN] [CVE-2020-25164](https://nvd.nist.gov/vuln/detail/CVE-2020-25164)
+> - [EN] [CVE-2020-25150](https://nvd.nist.gov/vuln/detail/CVE-2020-25150)
+> - [EN] [CVE-2020-25166](https://nvd.nist.gov/vuln/detail/CVE-2020-25166)
+> - [EN] [CVE-2020-16238](https://nvd.nist.gov/vuln/detail/CVE-2020-16238)
+> - [EN] [CVE-2020-25168](https://nvd.nist.gov/vuln/detail/CVE-2020-25168)
+> - [EN] [CVE-2020-25156](https://nvd.nist.gov/vuln/detail/CVE-2020-25156)
+> - [EN] [CVE-2020-25160](https://nvd.nist.gov/vuln/detail/CVE-2020-25160)
+> - [EN] [CVE-2020-25172](https://nvd.nist.gov/vuln/detail/CVE-2020-25172)
+
+---
 ## [VULNERABILITY] Capsule Technologies SmartLinx Neuron 2
 _20/10/2020_
 ```
