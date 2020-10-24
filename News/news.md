@@ -33,6 +33,7 @@ See the documents below for more information
 - [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsma-20-296-01)
 - [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsma-20-296-02)
 - [EN] [B. Braun](https://www.bbraun.com/en/products-and-therapies/services/b-braun-vulnerability-disclosure-policy/security-advisory.html) 
+- [EN] [Canadian Centre for Cyber Security](https://cyber.gc.ca/en/alerts/control-systems-b-braun-security-advisory)
 
 > ###### CVE :
 > - [EN] [CVE-2020-25158](https://nvd.nist.gov/vuln/detail/CVE-2020-25158)
