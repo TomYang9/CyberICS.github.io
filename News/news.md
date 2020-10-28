@@ -1,5 +1,20 @@
 # Industrial cybersecurity news
 
+---
+## [VULNERABILITY] NPort 5100A
+_28/10/2020_
+```
+Vulnerability affects :
+- NPort 5100A versions prior to 1.6
+
+Vulnerability risks: 
+- Privileges escalations
+
+See the documents below for more information
+```
+> ###### Sources :
+- [EN] [Moxa](https://www.moxa.com/en/support/support/security-advisory/nport-5100a-series-serial-device-servers-vulnerability-(1))
+- [FR] [ANSSI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2020-AVI-682/)
 
 ---
 ## [VULNERABILITY] B. Braun Melsungen AG
