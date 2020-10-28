@@ -1,5 +1,6 @@
 # Industrial cybersecurity news
 
+
 ---
 ## [VULNERABILITY] B. Braun Melsungen AG
 _23/10/2020_
@@ -439,6 +440,8 @@ See the documents below for more information
 - [EN] [kaspersky](https://ics-cert.kaspersky.com/advisories/klcert-advisories/2020/10/09/klcert-20-016-denial-of-service-in-arc-informatique-pcvue/)
 - [EN] [kaspersky](https://ics-cert.kaspersky.com/advisories/klcert-advisories/2020/10/09/klcert-20-015-remote-code-execution-in-arc-informatique-pcvue/)
 - [EN] [kaspersky](https://ics-cert.kaspersky.com/advisories/klcert-advisories/2020/10/09/klcert-20-017-session-information-exposure-in-arc-informatique-pcvue/)
+- [EN] [PCVUE](https://www.pcvuesolutions.com/france/index.php/support/ressources/alertes-de-securite)
+- [FR] [ANSSI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2020-AVI-685/)
 
 > ###### CVE :
 > - [EN] [CVE-2020-26867](https://nvd.nist.gov/vuln/detail/CVE-2020-26867)
