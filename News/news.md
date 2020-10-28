@@ -1,6 +1,28 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] JUUKO K-800 and K-808
+_28/10/2020_
+```
+Vulnerability affects :
+- JUUKO K-800 and K-808: Firmware versions prior to numbers ending ...9A, ...9B, ...9C, etc.
+
+Vulnerability risks: 
+- Authentication Bypass by Capture-replay
+- Command Injection
+
+Patch available : https://www.moxa.com/en/support/product-support/software-and-documentation/search?psid=50278
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsma-20-296-01)
+
+> ###### CVE :
+> - [EN] [CVE-2018-17932](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-17932)
+> - [EN] [CVE-2018-19025](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-19025)
+
+---
 ## [VULNERABILITY] NPort 5100A
 _28/10/2020_
 ```
