@@ -1,5 +1,28 @@
 # Industrial cybersecurity news
 
+
+---
+## [VULNERABILITY] Moxa EDR-G903
+_30/10/2020_
+```
+Vulnerability affects :
+- Firmware for EDR-G903 versions prior to 5.6
+- Firmware for EDR-G902 versions prior to 5.6
+- Firmware for EDR-810 versions prior to 5.7
+Vulnerability risks:
+- Improper Restriction of Operations
+
+Patch available :
+EDR-G903 Series - https://www.moxa.com/en/support/product-support/software-and-documentation/search?psid=48053
+EDR-G902 Series - https://www.moxa.com/en/support/product-support/software-and-documentation/search?psid=48063
+EDR-810 Series - https://www.moxa.com/en/support/product-support/software-and-documentation/search?psid=48041
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Moxa](https://www.moxa.com/en/support/support/security-advisory/edr-g903-g902-810-secure-router-vulnerability)
+- [FR] [ANSSI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2020-AVI-692/)
+
 ---
 ## [VULNERABILITY] JUUKO K-800 and K-808
 _28/10/2020_
