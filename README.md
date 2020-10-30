@@ -1,6 +1,6 @@
 # CyberSecICS
-Actualités (EN) :
-[ici](News/news.md)
+News (EN) :
+[Here](News/news.md)
 
 Ressources :
 Resources on malicious actors targeting industrial systems :
@@ -10,7 +10,6 @@ Resources on malicious actors targeting industrial systems :
 
 Publications :
 
-1. [2020 01 07] Attaque du malware Blackenergy 3 [FR] [Liens](https://github.com/CyberICS/CyberICS.github.io/blob/master/Publications/2020_01_07_BLACKENERGY_V3.pdf)
-2. [2020 04 04] Le ransomware EKANS [FR] [Liens](https://github.com/CyberICS/CyberICS.github.io/blob/master/Publications/2020_04_04_EKANS_RANSOMWARE.pdf)
+1. [2020 01 07] Blackenergy 3 malware attack  [FR] [Liens](https://github.com/CyberICS/CyberICS.github.io/blob/master/Publications/2020_01_07_BLACKENERGY_V3.pdf)
+2. [2020 04 04] The EKANS ransomware [FR] [Liens](https://github.com/CyberICS/CyberICS.github.io/blob/master/Publications/2020_04_04_EKANS_RANSOMWARE.pdf)
 
-![Les cyberattaques dans le monde industriel](Content/menaces.svg?raw=true)
