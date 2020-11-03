@@ -1,5 +1,33 @@
 # Industrial cybersecurity news
 
+
+---
+## [VULNERABILITY] WAGO Series 750-88x and 750-352
+_03/11/2020_
+```
+Vulnerability affects :
+- All versions before FW11 of this products :
+  - 750-352
+  - 750-831/xxx-xxx
+  - 750-852
+  - 750-880/xxx-xxx
+  - 750-881
+  - 750-889
+
+Vulnerability risks:
+- crash the device (DoS)
+
+Patch available : https://www.wago.com/us/requestDownload?downloadFile=FWMedia_58_750-881
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-308-01)
+- [EN] [CERT VDE](https://cert.vde.com/en-us/advisories/vde-2020-042)
+
+> ###### CVE :
+> - [EN] [CVE-2020-12516](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12516)
+
 ---
 ## [VULNERABILITY] NEXCOM NIO50
 _03/11/2020_
