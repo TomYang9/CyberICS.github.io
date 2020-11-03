@@ -1,5 +1,24 @@
 # Industrial cybersecurity news
 
+---
+## [VULNERABILITY] NEXCOM NIO50
+_03/11/2020_
+```
+Vulnerability affects :
+- All versions of NEXCOM NIO 50
+Vulnerability risks:
+- view sensitive information 
+- DoS
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-308-02)
+
+> ###### CVE :
+> - [EN] [CVE-2020-25151](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25151)
+> - [EN] [CVE-2020-25155](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25155)
 
 ---
 ## [VULNERABILITY] Moxa EDR-G903
