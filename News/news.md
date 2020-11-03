@@ -1,5 +1,29 @@
 # Industrial cybersecurity news
 
+---
+## [VULNERABILITY] EDR-810 Series Security Router
+_03/11/2020_
+```
+Vulnerability affects :
+- Firmware version 5.3 and lower 
+- Firmware version 5.6 and lower
+
+Vulnerability risks:
+- A crafted request to the web server caused potential risk of executing arbitrary command.
+- A crafted request to the web server caused potential risk of denial-of-service.
+- A crafted request to the device may cause specific parts of the user interface to become unresponsive.
+- A crafted request to the device may cause specific parts of the user interface to become unresponsive.
+- A crafted request to the device may cause specific parts of the user interface to become unresponsive.
+- A crafted request to the device may cause specific parts of the user interface to become unresponsive
+
+
+Patch available : https://www.moxa.com/en/support/product-support/software-and-documentation/search?psid=48041
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Moxa](https://www.moxa.com/en/support/support/security-advisory/edr-810-series-security-router-vulnerabilities)
+- [EN] [ANSSI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2020-AVI-705/)
 
 ---
 ## [VULNERABILITY] MXview Series Network Management
