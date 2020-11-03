@@ -2,6 +2,28 @@
 
 
 ---
+## [VULNERABILITY] MXview Series Network Management
+_03/11/2020_
+```
+Vulnerability affects :
+- Firmware Version from 3.0 to 3.1.8
+
+Vulnerability risks:
+- An attacker may be able to edit a source file to insert a malicious code to elevate their permissions
+
+Patch available https://www.moxa.com/en/support/product-support/software-and-documentation/search?psid=53389
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Moxa](https://www.moxa.com/en/support/support/security-advisory/mxview-series-network-management-software-vulnerabilities)
+- [EN] [ANSSI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2020-AVI-705/)
+
+> ###### CVE :
+> - [EN] [CVE-2020-13536](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13536)
+> - [EN] [CVE-2020-13537](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13537)
+
+---
 ## [VULNERABILITY] WAGO Series 750-88x and 750-352
 _03/11/2020_
 ```
