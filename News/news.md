@@ -502,6 +502,7 @@ See the documents below for more information
 - [EN] [kaspersky](https://ics-cert.kaspersky.com/advisories/klcert-advisories/2020/10/09/klcert-20-017-session-information-exposure-in-arc-informatique-pcvue/)
 - [EN] [PCVUE](https://www.pcvuesolutions.com/france/index.php/support/ressources/alertes-de-securite)
 - [FR] [ANSSI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2020-AVI-685/)
+- [EN] [CISA ICS](https://us-cert.cisa.gov/ics/advisories/icsa-20-308-03)
 
 > ###### CVE :
 > - [EN] [CVE-2020-26867](https://nvd.nist.gov/vuln/detail/CVE-2020-26867)
