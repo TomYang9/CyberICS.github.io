@@ -1,6 +1,26 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] WECON PLC Editor
+_06/11/2020_
+```
+Vulnerability affects :
+- PLC Editor Versions 1.3.8 and prior
+
+Vulnerability risks:
+- execute code under the privileges of the application
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-310-01)
+
+> ###### CVE :
+> - [EN] [CVE-2020-25181](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25181)
+> - [EN] [CVE-2020-25177](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25177)
+
+---
 ## [VULNERABILITY] Mitsubishi Electric GT14 Model of GOT1000 Series
 _06/11/2020_
 ```
@@ -24,12 +44,12 @@ See the documents below for more information
 - [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-310-02)
 
 > ###### CVE :
-> - [EN] [CVE-2020-5644](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5644)
-> - [EN] [CVE-2020-5645](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5645)
-> - [EN] [CVE-2020-5646](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5646)
-> - [EN] [CVE-2020-5647](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5647)
-> - [EN] [CVE-2020-5648](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5648)
-> - [EN] [CVE-2020-5649](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5649)
+> - [EN] [CVE-2020-5644](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5644)
+> - [EN] [CVE-2020-5645](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5645)
+> - [EN] [CVE-2020-5646](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5646)
+> - [EN] [CVE-2020-5647](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5647)
+> - [EN] [CVE-2020-5648](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5648)
+> - [EN] [CVE-2020-5649](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5649)
 
 ---
 ## [VULNERABILITY] EDR-810 Series Security Router
@@ -54,7 +74,7 @@ See the documents below for more information
 
 > ###### Sources :
 - [EN] [Moxa](https://www.moxa.com/en/support/support/security-advisory/edr-810-series-security-router-vulnerabilities)
-- [EN] [ANSSI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2020-AVI-705/)
+- [FR] [ANSSI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2020-AVI-705/)
 
 ---
 ## [VULNERABILITY] MXview Series Network Management
@@ -72,11 +92,11 @@ See the documents below for more information
 
 > ###### Sources :
 - [EN] [Moxa](https://www.moxa.com/en/support/support/security-advisory/mxview-series-network-management-software-vulnerabilities)
-- [EN] [ANSSI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2020-AVI-705/)
+- [FR] [ANSSI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2020-AVI-705/)
 
 > ###### CVE :
-> - [EN] [CVE-2020-13536](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13536)
-> - [EN] [CVE-2020-13537](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13537)
+> - [EN] [CVE-2020-13536](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13536)
+> - [EN] [CVE-2020-13537](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13537)
 
 ---
 ## [VULNERABILITY] WAGO Series 750-88x and 750-352
@@ -103,7 +123,7 @@ See the documents below for more information
 - [EN] [CERT VDE](https://cert.vde.com/en-us/advisories/vde-2020-042)
 
 > ###### CVE :
-> - [EN] [CVE-2020-12516](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12516)
+> - [EN] [CVE-2020-12516](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12516)
 
 ---
 ## [VULNERABILITY] NEXCOM NIO50
@@ -122,8 +142,8 @@ See the documents below for more information
 - [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-308-02)
 
 > ###### CVE :
-> - [EN] [CVE-2020-25151](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25151)
-> - [EN] [CVE-2020-25155](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25155)
+> - [EN] [CVE-2020-25151](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25151)
+> - [EN] [CVE-2020-25155](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25155)
 
 ---
 ## [VULNERABILITY] Moxa EDR-G903
@@ -638,11 +658,12 @@ See the documents below for more information
 _08/10/2020_
 ```
 Vulnerability affects MELSEC iQ-R series modules :
-- R00/01/02CPU, all versions
-- R04/08/16/32/120(EN)CPU, all versions
-- R08/16/32/120SFCPU, all versions
-- R08/16/32/120PCPU, all versions
-- R16/32/64MTCPU, all versions
+- R00/01/02CPU: Firmware Versions 7 or earlier
+- R04/08/16/32/120CPU, R04/08/16/32/120ENCPU: Firmware Versions 39 or earlier
+- R08/16/32/120SFCPU: Firmware Versions 20 or earlier
+- R08/16/32/120PCPU: Firmware Versions 24 or earlier
+- R08/16/32/120PSFCPU: Firmware Versions 05 or earlier
+- Versions 49 or earlier
 
 Vulnerability risks:
 -  denial-of-service condition due to uncontrolled resource consumption
@@ -651,7 +672,7 @@ See the documents below for more information
 ```
 
 > ###### Sources :
-- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-282-02)
+- [EN] [CISA - Update B](https://us-cert.cisa.gov/ics/advisories/icsa-20-282-02)
 - [EN] [Canadian Centre for Cyber Security](https://cyber.gc.ca/en/alerts/control-systems-mitsubishi-electric-security-advisory-8)
 
 > ###### CVE :
