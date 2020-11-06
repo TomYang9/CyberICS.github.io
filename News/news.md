@@ -1,6 +1,37 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] Mitsubishi Electric GT14 Model of GOT1000 Series
+_06/11/2020_
+```
+Vulnerability affects :
+- GT1455-QTBDE with CoreOS Version 05.65.00.BD and prior, a graphic operation terminal 
+- GT1450-QMBDE with CoreOS Version 05.65.00.BD and prior, a graphic operation terminal
+- GT1450-QLBDE with CoreOS Version 05.65.00.BD and prior, a graphic operation terminal
+- GT1455HS-QTBDE with CoreOS Version 05.65.00.BD and prior, a graphic operation terminal
+- GT1450HS-QMBDE with CoreOS Version 05.65.00.BD and prior, a graphic operation terminal
+
+Vulnerability risks:
+-  denial-of-service condition (DoS)
+- code execution
+
+Patch available on Mitsubishi website.
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [ Mitsubishi Electric](https://www.mitsubishielectric.com/en/psirt/vulnerability/pdf/2020-014_en.pdf)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-310-02)
+
+> ###### CVE :
+> - [EN] [CVE-2020-5644](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5644)
+> - [EN] [CVE-2020-5645](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5645)
+> - [EN] [CVE-2020-5646](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5646)
+> - [EN] [CVE-2020-5647](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5647)
+> - [EN] [CVE-2020-5648](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5648)
+> - [EN] [CVE-2020-5649](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5649)
+
+---
 ## [VULNERABILITY] EDR-810 Series Security Router
 _03/11/2020_
 ```
