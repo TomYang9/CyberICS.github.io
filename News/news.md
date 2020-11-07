@@ -1,6 +1,80 @@
 # Industrial cybersecurity news
 
 ---
+## [ATTACK] Industrial enterprises using RMS and TeamViewer
+_07/11/2020_
+```
+- Target (only in Russia) : 
+    - Manufacturing, 
+    - Oil and gas, 
+    - Metal industry
+    - Engineering
+    - Energy
+    - Construction
+    - Mining
+    - Logistics
+      
+In summer 2019, Kaspersky ICS CERT identified a new wave of phishing emails containing various malicious attachments. The emails target companies and organizations from different sectors of the economy that are associated with industrial production in one way or another.
+
+We reported these attacks in 2018 in an article entitled “Attacks on industrial enterprises using RMS and TeamViewer“, but recent data shows that the attackers have modified their attack techniques and that the number of enterprises facing the threat of infection is growing.
+```
+
+
+> ###### Sources :
+- [EN] [Kaspersky](https://ics-cert.kaspersky.com/media/Kaspersky-Attacks-on-industrial-enterprises-using-RMS-and-TeamViewer-EN.pdf)
+- [EN] [Alienvault](https://otx.alienvault.com/pulse/5fa440244397a8c64412347d)
+
+IOCs (source : Kaspersky): 
+
+`dncars.ru`
+
+`info@dncars.ru`
+
+`timkasprot.temp.swtest.ru`
+
+`z-wavehome.ru`
+
+`99da6cf54df66738a368ab4c5332bcdef3ec4198`
+
+`8feb7a65505c59f5096b43a744b479a9d41736ad`
+
+`ce5599239229ba3290e5ca53cf5d562d66a8cc64`
+
+`ea1440202beb02cbb49b5bef1ec013c0`
+
+`3b79aacdc33593e8c8f560e4ab1c02c6`
+
+`1091941264757dc7e3da0a086f69e4bb`
+
+`da4dff233ffbac362fee3ae08c4efa53`
+
+`72f206e3a281248a3d5ca0b2c5208f5f`
+
+`203e341cf850d7a05e44fafc628aeaf1`
+
+`386a1594a0add346b8fbbebcf1547e77`
+
+`d768a65335e6ca715ab5ceb487f6862f`
+
+`f0072ea102a122ce8a20fa32b126b67f674834da`
+
+`cecc17cd324c2eb4eab4e0612b7f32897b18ef9e7affad5b311661a14ac2b585`
+
+`bf47ade5a50ca09793a26ade947b585032b22e9e530b4c16a8b78532d6ea755f`
+
+`604be0b601380fc31e3262a544b1c54910057cf28cc83f9838d8f91ea903fb17`
+
+`5461f09eba6e01b4349a31a83613987e20570d67c6dc5427327bed7208a533df`
+
+`nataly@z-wavehome.ru`
+
+`timkas@protonmail.com`
+
+`smoollsrv@gmail.com`
+
+`77.222.56.169`
+
+---
 ## [VULNERABILITY] WECON PLC Editor
 _06/11/2020_
 ```
