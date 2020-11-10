@@ -740,6 +740,11 @@ See the documents below for more information
 
 > ###### CVE :
 > - [EN] [CVE-2020-16850](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-16850)
+> - [EN] [CVE-2020-10769](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10769)
+> - [EN] [CVE-2020-14314](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14314)
+> - [EN] [CVE-2020-25211](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25211)
+> - [EN] [CVE-2020-25641](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25641)
+
 
 ---
 ## [VULNERABILITY] PCvue, WebVue, WebScheduler, TouchVue 
