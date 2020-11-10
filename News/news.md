@@ -1,6 +1,29 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] Multiple Vulnerabilities in SCALANCE W1750D (Siemens)
+_10/11/2020_
+```
+Vulnerability affects :
+-  SCALANCE W1750D all versions
+
+Vulnerability risks:
+- Bypass security restrictions
+- Obtain sensitive information
+- Perform unauthorized actions 
+- Execute arbitrary code
+
+Patch available : https://support.industry.siemens.com/cs/ww/en/view/109782770/
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-431802.pdf)
+
+> ###### CVE :
+> - [EN] [CVE-2016-2031](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-2031)
+
+---
 ## [ATTACK] Industrial enterprises using RMS and TeamViewer
 _07/11/2020_
 ```
