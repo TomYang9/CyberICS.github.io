@@ -1,6 +1,27 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] OSIsoft PI Interface for OPC XML-DA
+_10/11/2020_
+```
+Vulnerability affects :
+- All versions of PI Interface for OPC XML-DA prior to 1.7.3.x are affected
+
+Vulnerability risks:
+- Remotely execute arbitrary code
+
+Patch available : https://customers.osisoft.com/s/knowledgearticle?knowledgeArticleUrl=000031534
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [OSIsoft login required](https://customers.osisoft.com/s/knowledgearticle?knowledgeArticleUrl=000031534)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-315-02)
+
+> ###### CVE :
+> - [EN] [CVE-2013-0006](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2013-0006)
+
+---
 ## [VULNERABILITY] OSIsoft PI Vision
 _10/11/2020_
 ```
