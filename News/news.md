@@ -1,6 +1,29 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] OSIsoft PI Vision
+_10/11/2020_
+```
+Vulnerability affects :
+- All versions prior to PI Vision 2020 are affected.
+
+Vulnerability risks:
+- Cross-site Scripting
+- Incorrect Authorization
+
+Patch available : https://customers.osisoft.com/s/knowledgearticle?knowledgeArticleUrl=000031533
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [OSIsoft login required](https://customers.osisoft.com/s/knowledgearticle?knowledgeArticleUrl=000031533)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-315-02)
+
+> ###### CVE :
+> - [EN] [CVE-2020-25163](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25163)
+> - [EN] [CVE-2020-25167](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25167)
+
+---
 ## [VULNERABILITY] Schneider Electric PLC Simulator for EcoStruxure Control Expert
 _10/11/2020_
 ```
