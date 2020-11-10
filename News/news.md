@@ -1,6 +1,28 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] Schneider Electric PLC Simulator for EcoStruxure Control Expert
+_10/11/2020_
+```
+Vulnerability affects :
+- PLC Simulator for EcoStruxure Control Expert, all versions
+- PLC Simulator for Unity Pro (former name of EcoStruxure Control Expert), all versions
+
+Vulnerability risks:
+- Denial-of-service 
+
+Patch available : https://www.se.com/ww/en/product-range-download/548-ecostruxure%E2%84%A2-control-expert/
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Schneider](https://www.se.com/ww/en/product-range-download/548-ecostruxure%E2%84%A2-control-expert/)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-315-03)
+
+> ###### CVE :
+> - [EN] [CVE-2020-7538](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7538)
+
+---
 ## [VULNERABILITY] SIMATIC S7-300 CPUs and SINUMERIK Controller (Siemens)
 _10/11/2020_
 ```
@@ -17,6 +39,7 @@ See the documents below for more information
 
 > ###### Sources :
 - [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-492828.pdf)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-315-04)
 
 > ###### CVE :
 > - [EN] [CVE-2020-15783](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15783)
@@ -40,6 +63,7 @@ See the documents below for more information
 
 > ###### Sources :
 - [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-431802.pdf)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-315-05)
 
 > ###### CVE :
 > - [EN] [CVE-2016-2031](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-2031)
