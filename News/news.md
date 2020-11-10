@@ -1,6 +1,27 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] SIMATIC S7-300 CPUs and SINUMERIK Controller (Siemens)
+_10/11/2020_
+```
+Vulnerability affects :
+-  SIMATIC S7-300 CPU family (incl. related ET200CPUs and SIPLUS variants):All versions
+-  SINUMERIK 840D sl:All versions
+
+Vulnerability risks:
+-  Denial-of-Service
+
+Recommandation : Protect network access to port 102/tcp of affected devices.
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-492828.pdf)
+
+> ###### CVE :
+> - [EN] [CVE-2020-15783](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15783)
+
+---
 ## [VULNERABILITY] Multiple Vulnerabilities in SCALANCE W1750D (Siemens)
 _10/11/2020_
 ```
