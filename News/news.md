@@ -1,6 +1,28 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] Mitsubishi Electric MELSEC iQ-R Series
+_12/11/2020_
+```
+Vulnerability affects :
+- R00/01/02 CPU Firmware versions from 05 to 19
+- R04/08/16/32/120(EN) CPU Firmware versions from 35 to 51
+
+Vulnerability risks:
+- DoS
+
+Patch available (update firmware)
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Mitsubishi Electric](https://www.mitsubishielectric.com/en/psirt/vulnerability/pdf/2020-015_en.pdf)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-317-01)
+
+> ###### CVE :
+> - [EN] [CVE-2020-5666](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5666)
+
+---
 ## [VULNERABILITY] BD Alaris 8015 PC Unit and BD Alaris Systems Manager
 _12/11/2020_
 ```
