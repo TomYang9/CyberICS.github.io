@@ -1,6 +1,28 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] BD Alaris 8015 PC Unit and BD Alaris Systems Manager
+_12/11/2020_
+```
+Vulnerability affects :
+- BD Alaris PC Unit, Model 8015, Versions 9.33.1 and earlier
+- BD Alaris Systems Manager, Versions 4.33 and earlier
+
+Vulnerability risks:
+- DoS
+
+Patch available (update firmware)
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [BD](https://www.bd.com/en-us/support/product-security-and-privacy/product-security-bulletins/bd-alaris-8015-pc-unit-and-bd-alaris-systems-manager-network-session-vulnerability)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-317-01)
+
+> ###### CVE :
+> - [EN] [CVE-2020-25165](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25165)
+
+---
 ## [VULNERABILITY] OSIsoft PI Interface for OPC XML-DA
 _10/11/2020_
 ```
