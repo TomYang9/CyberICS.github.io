@@ -1,6 +1,25 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] Vulnerabilities in Schneider Electric EcoStruxure Machine Expert and M221 PLC
+_13/11/2020_
+```
+Vulnerability affects :
+- EcoStruxure Machine Expert v1.0 
+- Schneider Electric M221 (Firmware 1.10.2.2)
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Trustwave](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/attacking-scada-part-ii-vulnerabilities-in-schneider-electric-ecostruxure-machine-expert-and-m221-plc/)
+- [EN] [Trustwave](https://www.trustwave.com/en-us/resources/security-resources/security-advisories/?fid=28123)
+
+> ###### CVE :
+> - [EN] [CVE-2020-7566](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7566)
+> - [EN] [CVE-2020-7568](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7568)
+
+---
 ## [VULNERABILITY] Mitsubishi Electric MELSEC iQ-R Series
 _12/11/2020_
 ```
