@@ -1,6 +1,18 @@
 # Industrial cybersecurity news
 
 ---
+## [ATTACK] Drovorub in industrial environnement
+_14/11/2020_
+```
+Schneider Electric recommande de prendre des mesures de défense face au malware Drovorub qui pourrait utiliser les équipement Q Data Radio et J Data Radio pour ce déployer dans les systèmes industriels. 
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Schneider Electric](https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SESB-2020-315-01_Trio_Radio_Drovorub_Security_Bulletin.pdf&p_Doc_Ref=SESB-2020-315-01)
+
+---
 ## [VULNERABILITY] Vulnerabilities in Schneider Electric EcoStruxure Machine Expert and M221 PLC
 _13/11/2020_
 ```
