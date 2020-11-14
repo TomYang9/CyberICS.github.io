@@ -4,7 +4,7 @@
 ## [ATTACK] Drovorub in industrial environnement
 _14/11/2020_
 ```
-Schneider Electric recommande de prendre des mesures de défense face au malware Drovorub qui pourrait utiliser les équipement Q Data Radio et J Data Radio pour ce déployer dans les systèmes industriels. 
+Schneider Electric recommends taking defensive measures against Drovorub malware, which could use Q Data Radio and J Data Radio equipment for deployment in industrial systems. 
 
 See the documents below for more information
 ```
