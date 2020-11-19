@@ -1,5 +1,36 @@
 # Industrial cybersecurity news
 
+
+---
+## [VULNERABILITY] Schneider Electric Interactive Graphical SCADA System (IGSS)
+_19/11/2020_
+```
+Vulnerability affects :
+- IGSS Definition (Def.exe) Version 14.0.0.20247 and prior
+
+Vulnerability risks:
+- Improper Restriction of Operations within the Bounds of a Memory Buffer
+- Out-of-bounds Write
+- Out-of-bounds Read
+
+Patch available
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Schneider Electric](https://igss.schneider-electric.com/igss/igssupdates/v140/IGSSUPDATE.ZIP)
+
+> ###### CVE :
+> - [EN] [CVE-2020-7558](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7558)
+> - [EN] [CVE-2020-7557](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7557)
+> - [EN] [CVE-2020-7556](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7556)
+> - [EN] [CVE-2020-7555](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7555)
+> - [EN] [CVE-2020-7554](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7554)
+> - [EN] [CVE-2020-7553](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7553)
+> - [EN] [CVE-2020-7552](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7552)
+> - [EN] [CVE-2020-7551](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7551)
+> - [EN] [CVE-2020-7550](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7550)
+
 ---
 ## [ATTACK] Drovorub in industrial environnement
 _14/11/2020_
