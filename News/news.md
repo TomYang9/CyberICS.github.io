@@ -2,6 +2,27 @@
 
 
 ---
+## [VULNERABILITY] Real Time Automation EtherNet/IP
+_19/11/2020_
+```
+Vulnerability affects :
+- All versions prior to 2.28
+
+Vulnerability risks:
+- Denial-of-service condition 
+- Buffer overflow may allow remote code execution
+
+Patch available
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Rtautomation](https://www.rtautomation.com/support/)
+
+> ###### CVE :
+> - [EN] [CVE-2020-25159](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25159)
+
+---
 ## [VULNERABILITY] Schneider Electric Interactive Graphical SCADA System (IGSS)
 _19/11/2020_
 ```
