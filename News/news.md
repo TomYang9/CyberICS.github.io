@@ -1,5 +1,36 @@
 # Industrial cybersecurity news
 
+---
+## [VULNERABILITY] Mitsubishi Electric MELSEC iQ-R Series
+_19/11/2020_
+```
+Vulnerability affects :
+- R00/01/02CPU firmware Versions 19 and earlier
+- R04/08/16/32/120(EN)CPU firmware Versions 51 and earlier
+- R08/16/32/120SFCPU firmware Versions 22 and earlier
+- R08/16/32/120PCPU all versions
+- R08/16/32/120PSFCPU all versions
+- RJ71EN71 firmware Versions 47 and earlier
+- RJ71GF11-T2 firmware Versions 47 and earlier
+- RJ72GF15-T2 firmware Versions 07 and earlier
+- RJ71GP21-SX firmware Versions 47 and earlier
+- RJ71GP21S-SX firmware Versions 47 and earlier
+- RJ71C24(-R2/R4) all versions
+- RJ71GN11-T2 all versions 
+
+Vulnerability risks:
+- Denial-of-service
+
+Patch available
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Mitsubishi](https://www.mitsubishielectric.com/en/psirt/vulnerability/index.html)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-324-05)
+
+> ###### CVE :
+> - [EN] [CVE-2020-5668](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5668)
 
 ---
 ## [VULNERABILITY] Johnson Controls Sensormatic Electronics American Dynamics victor Web Client
