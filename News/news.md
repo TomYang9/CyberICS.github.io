@@ -2,6 +2,24 @@
 
 
 ---
+## [VULNERABILITY] Paradox IP150
+_19/11/2020_
+```
+Vulnerability affects :
+- Paradox IP150 firmware Version 5.02.09
+
+Vulnerability risks:
+- 
+
+Patch available
+See the documents below for more information
+```
+
+> ###### CVE :
+> - [EN] [CVE-2020-25185](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25185)
+> - [EN] [CVE-2020-25189](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25189)
+
+---
 ## [VULNERABILITY] Real Time Automation EtherNet/IP
 _19/11/2020_
 ```
