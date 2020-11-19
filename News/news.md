@@ -2,6 +2,27 @@
 
 
 ---
+## [VULNERABILITY] Johnson Controls Sensormatic Electronics American Dynamics victor Web Client
+_19/11/2020_
+```
+Vulnerability affects :
+- All versions of victor Web Client up to and including v5.6
+- All versions of C•CURE Web Client up to and including v2.90
+
+Vulnerability risks:
+- Denial-of-service condition 
+- Buffer overflow may allow remote code execution
+
+Patch available
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-324-01)
+
+> ###### CVE :
+> - [EN] [CVE-2020-9049](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9049)
+---
 ## [VULNERABILITY] Paradox IP150
 _19/11/2020_
 ```
