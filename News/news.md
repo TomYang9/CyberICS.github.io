@@ -1,6 +1,7 @@
 # Industrial cybersecurity news
 
 ---
+
 ## [VULNERABILITY] Mitsubishi Electric MELSEC iQ-R Series
 _19/11/2020_
 ```
@@ -33,6 +34,7 @@ See the documents below for more information
 > - [EN] [CVE-2020-5668](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5668)
 
 ---
+
 ## [VULNERABILITY] Johnson Controls Sensormatic Electronics American Dynamics victor Web Client
 _19/11/2020_
 ```
@@ -53,7 +55,9 @@ See the documents below for more information
 
 > ###### CVE :
 > - [EN] [CVE-2020-9049](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9049)
+
 ---
+
 ## [VULNERABILITY] Paradox IP150
 _19/11/2020_
 ```
@@ -72,6 +76,7 @@ See the documents below for more information
 > - [EN] [CVE-2020-25189](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25189)
 
 ---
+
 ## [VULNERABILITY] Real Time Automation EtherNet/IP
 _19/11/2020_
 ```
@@ -123,6 +128,7 @@ See the documents below for more information
 > - [EN] [CVE-2020-7550](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7550)
 
 ---
+
 ## [ATTACK] Drovorub in industrial environnement
 _14/11/2020_
 ```
@@ -135,6 +141,7 @@ See the documents below for more information
 - [EN] [Schneider Electric](https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SESB-2020-315-01_Trio_Radio_Drovorub_Security_Bulletin.pdf&p_Doc_Ref=SESB-2020-315-01)
 
 ---
+
 ## [VULNERABILITY] Vulnerabilities in Schneider Electric EcoStruxure Machine Expert and M221 PLC
 _13/11/2020_
 ```
@@ -154,6 +161,7 @@ See the documents below for more information
 > - [EN] [CVE-2020-7568](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7568)
 
 ---
+
 ## [VULNERABILITY] Mitsubishi Electric MELSEC iQ-R Series
 _12/11/2020_
 ```
@@ -176,6 +184,7 @@ See the documents below for more information
 > - [EN] [CVE-2020-5666](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5666)
 
 ---
+
 ## [VULNERABILITY] BD Alaris 8015 PC Unit and BD Alaris Systems Manager
 _12/11/2020_
 ```
@@ -198,6 +207,7 @@ See the documents below for more information
 > - [EN] [CVE-2020-25165](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25165)
 
 ---
+
 ## [VULNERABILITY] OSIsoft PI Interface for OPC XML-DA
 _10/11/2020_
 ```
@@ -219,6 +229,7 @@ See the documents below for more information
 > - [EN] [CVE-2013-0006](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2013-0006)
 
 ---
+
 ## [VULNERABILITY] OSIsoft PI Vision
 _10/11/2020_
 ```
@@ -242,6 +253,7 @@ See the documents below for more information
 > - [EN] [CVE-2020-25167](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25167)
 
 ---
+
 ## [VULNERABILITY] Schneider Electric PLC Simulator for EcoStruxure Control Expert
 _10/11/2020_
 ```
@@ -264,6 +276,7 @@ See the documents below for more information
 > - [EN] [CVE-2020-7538](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7538)
 
 ---
+
 ## [VULNERABILITY] SIMATIC S7-300 CPUs and SINUMERIK Controller (Siemens)
 _10/11/2020_
 ```
@@ -286,6 +299,7 @@ See the documents below for more information
 > - [EN] [CVE-2020-15783](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15783)
 
 ---
+
 ## [VULNERABILITY] Multiple Vulnerabilities in SCALANCE W1750D (Siemens)
 _10/11/2020_
 ```
@@ -310,6 +324,7 @@ See the documents below for more information
 > - [EN] [CVE-2016-2031](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-2031)
 
 ---
+
 ## [ATTACK] Industrial enterprises using RMS and TeamViewer
 _07/11/2020_
 ```
@@ -384,6 +399,7 @@ IOCs (source : Kaspersky):
 `77.222.56.169`
 
 ---
+
 ## [VULNERABILITY] WECON PLC Editor
 _06/11/2020_
 ```
