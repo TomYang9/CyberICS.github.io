@@ -24,6 +24,28 @@ See the documents below for more information
 
 ---
 
+## [VULNERABILITY] Fuji Electric V-Server Lite
+_24/11/2020_
+```
+Vulnerability affects :
+- V-Server Lite, all versions prior to 3.3.24.0
+
+Vulnerability risks:
+- Remote code Execution
+
+Patch available
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Fuji Electric](https://felib.fujielectric.co.jp/download/pod_document.htm?product1_id=P10003&product2_id=P20023&product3_id=P30262&material1_id=M10009&site=global&lang=en)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-329-02)
+
+> ###### CVE :
+> - [EN] [CVE-2020-25171](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25171)
+
+---
+
 ## [VULNERABILITY] Mitsubishi Electric MELSEC iQ-R Series
 _19/11/2020_
 ```
