@@ -1,6 +1,30 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] Schneider Electric EcoStruxure Operator Terminal Expert runtime (Vijeo XD)
+_02/12/2020_
+```
+Vulnerability affects :
+- EcoStruxure Operator Terminal Expert Runtime 3.1 Service Pack 1A and prior installed on:
+    - Windows PC using legacy BIOS
+    - Harmony iPC (HMIG5U, HMIG5U2) using legacy BIOS
+- Windows PCs using UEFI are not impacted    
+
+Vulnerability risks:
+- unauthorized command execution (local)
+
+Patch available
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Schneider Electric](https://www.se.com/ww/en/product-range-download/62621-ecostruxure%E2%84%A2-operator-terminal-expert/#/software-firmware-tab)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-336-01)
+
+> ###### CVE :
+> - [EN] [CVE-2020-7544](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7544)
+
+---
 
 ## [VULNERABILITY] Fuji Electric V-Server Lite
 _24/11/2020_
