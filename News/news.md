@@ -1,5 +1,27 @@
 # Industrial cybersecurity news
 
+
+---
+## [VULNERABILITY] National Instruments CompactRIO
+_03/12/2020_
+```
+Vulnerability affects :
+- CompactRIO: Driver versions prior to 20.5     
+
+Vulnerability risks:
+- reboot the device remotely
+
+Patch available
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Schneider Electric](https://www.ni.com/en-us/support/downloads/drivers/download.ni-compactrio.html#356497)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-338-01)
+
+> ###### CVE :
+> - [EN] [CVE-2020-25191](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25191)
+
 ---
 ## [VULNERABILITY] Schneider Electric EcoStruxure Operator Terminal Expert runtime (Vijeo XD)
 _02/12/2020_
