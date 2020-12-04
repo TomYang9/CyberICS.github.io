@@ -1,5 +1,16 @@
 # Industrial cybersecurity news
 
+---
+## [ATTACK] Attack on a water tank in Israel
+_04/11/2020_
+```
+A video of an HMI of an Israeli water tank has been published. The access was initially published on the Telegram channel of an Iran-based hacker group called "Unidentified TEAM".
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [OTORIO](https://www.otorio.com/blog/what-we-ve-learned-from-the-december-1st-attack-on-an-israeli-water-reservoir/)
 
 ---
 ## [VULNERABILITY] National Instruments CompactRIO
