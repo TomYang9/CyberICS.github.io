@@ -1,6 +1,28 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] Vulnerabilities in SIEMENS LOGO!
+_08/12/2020_
+```
+Vulnerability affects :
+- LOGO! 8 BM (incl. SIPLUS variants) ; All versions < V8.3
+
+Vulnerability risks:
+- an attacker reading and modifying the device configuration if the attacker has accessto port 10005/tcp
+
+Patch available
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-542701.pdf)
+
+> ###### CVE :
+> - [EN] [CVE-2019-10919](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-10919)
+> - [EN] [CVE-2019-10920](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-10920)
+> - [EN] [CVE-2019-10921](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-10921)
+
+---
 ## [VULNERABILITY] Vulnerabilities in XHQ Operations Intelligence
 _08/12/2020_
 ```
