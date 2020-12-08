@@ -1,6 +1,32 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] Vulnerabilities in XHQ Operations Intelligence
+_08/12/2020_
+```
+Vulnerability affects :
+- XHQ ; All Versions < 6.1
+
+Vulnerability risks:
+- data injection in the XHQ’s web interfaces
+
+Patch available
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-712690.pdf)
+
+> ###### CVE :
+> - [EN] [CVE-2019-19283](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-19283)
+> - [EN] [CVE-2019-19284](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-19284)
+> - [EN] [CVE-2019-19285](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-19285)
+> - [EN] [CVE-2019-19286](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-19286)
+> - [EN] [CVE-2019-19287](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-19287)
+> - [EN] [CVE-2019-19288](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-19288)
+> - [EN] [CVE-2019-19289](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-19289)
+
+---
 ## [VULNERABILITY] Missing Authentication Vulnerability in SIEMENS LOGO!
 _08/12/2020_
 ```
