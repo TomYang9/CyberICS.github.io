@@ -1,5 +1,67 @@
 # Industrial cybersecurity news
 
+---
+## [VULNERABILITY] Multiple Vulnerabilities in Schneider Electric 
+_08/12/2020_
+```
+Vulnerability affects :
+    - EcoStruxure™ Control Expert
+    - Unity Pro (former name of EcoStruxure™ Control Expert)
+    - EcoStruxure Geo SCADA Expert 2019 versions antérieures à 81.7613.1
+    - EcoStruxure Geo SCADA Expert 2020 versions antérieures à 83.7613.1
+    - Modicon M340 CPU BMXP34* versions antérieures à V3.3
+    - Modicon M340 Ethernet Communication modules BMXNOC0401 versions antérieures à V2.10 (*)
+    - Modicon M340 Ethernet Communication modules BMXNOE0100 versions antérieures à V3.4
+    - Modicon M340 Ethernet Communication modules BMXNOE0110 versions antérieures à V6.6
+    - Modicon Premium processors with integrated Ethernet COPRO TSXP574634, TSXP575634, TSXP576634
+    - Modicon Quantum CPUs 140CPU65xxxxx versions antérieures à V6.1 (*)
+    - Modicon Quantum communication modules 140NOE771x1 versions antérieures à V7.3 (*)
+    - Modicon Quantum communication modules 140NOC78x00 versions antérieures à V1.74 (*)
+    - Modicon Quantum communication modules 140NOC77101 versions antérieures à V1.08
+    - Modicon Premium communication modules TSXETY4103 versions antérieures à V6.2 (*)
+    - Modicon Premium communication modules TSXETY5103 versions antérieures à V6.4 (*)
+    - Modicon Premium CPUs TSXP574634, TSXP575634, TSXP576634 versions antérieures à V6.1 (*)
+    - BMXNOE0100
+    - BMXNOE0110
+    - BMXNOR0200H
+    - BMXNOR200H
+    - Modicon M580 CPUs BMEx58xxxxx microgiciel versions antérieures à 3.20
+    - Modicon M258 versions antérieures à 5.0.4.11
+    - SoMachine/SoMachine Motion software
+
+Vulnerability risks:
+    - Arbitrary code execution
+    - Remote Denial of Service
+    - Breach of confidentiality of data
+
+Patch available
+See the documents below for more information
+```
+> ###### Sources :
+> - [EN] [Schneider Electric](https://www.se.com/ww/en/download/document/SEVD-2020-343-01/)
+> - [EN] [Schneider Electric](https://www.se.com/ww/en/download/document/SEVD-2020-343-02/)
+> - [EN] [Schneider Electric](https://www.se.com/ww/en/download/document/SEVD-2020-343-03/)
+> - [EN] [Schneider Electric](https://www.se.com/ww/en/download/document/SEVD-2020-343-04/)
+> - [EN] [Schneider Electric](https://www.se.com/ww/en/download/document/SEVD-2020-343-05/)
+> - [EN] [Schneider Electric](https://www.se.com/ww/en/download/document/SEVD-2020-343-06/)
+> - [EN] [Schneider Electric](https://www.se.com/ww/en/download/document/SEVD-2020-343-07/)
+> - [EN] [Schneider Electric](https://www.se.com/ww/en/download/document/SEVD-2020-343-08/)
+> - [EN] [Schneider Electric](https://www.se.com/ww/en/download/document/SEVD-2020-343-09/)
+> - [EN] [ANSSI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2020-AVI-801/)
+
+
+> ###### CVE :
+> - [EN] [CVE-2020-7560](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7560)
+> - [EN] [CVE-2020-28219](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-28219)
+> - [EN] [CVE-2020-7540](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7540)
+> - [EN] [CVE-2020-7535](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7535)
+> - [EN] [CVE-2020-7549](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7549)
+> - [EN] [CVE-2020-7536](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7536)
+> - [EN] [CVE-2020-7537](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7537)
+> - [EN] [CVE-2020-7542](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7542)
+> - [EN] [CVE-2020-7543](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7543)
+> - [EN] [CVE-2020-28220](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-28220)
+
 
 ---
 ## [VULNERABILITY] Missing Authentication Vulnerability in SIEMENS LOGO!
