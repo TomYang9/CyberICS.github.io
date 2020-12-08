@@ -1,5 +1,27 @@
 # Industrial cybersecurity news
 
+
+---
+## [VULNERABILITY] Missing Authentication Vulnerability in SIEMENS LOGO!
+_08/12/2020_
+```
+Vulnerability affects :
+- LOGO! 8 BM (incl. SIPLUS variants) ; All version
+
+Vulnerability risks:
+- An attacker reading and modifying the device configuration and obtain project files from the devices if the attacker has access to port 135/tcp
+
+Patch available
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-817401.pdf)
+
+> ###### CVE :
+> - [EN] [CVE-2020-7589](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7589)
+
+
 ---
 ## [VULNERABILITY] Vulnerabilities in SIEMENS LOGO!
 _08/12/2020_
