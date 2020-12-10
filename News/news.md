@@ -1,6 +1,36 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] Host Engineering H2-ECOM100 Module
+_10/12/2020_
+```
+Vulnerability affects :
+    - H0-ECOM100 Module:
+        - Hardware Versions 6x and prior with Firmware Versions 4.0.348 and prior
+        - Hardware Version 7x with Firmware Versions 4.1.113 and prior
+        - Hardware Version 9x with Firmware Versions 5.0.149 and prior
+    - H2-ECOM100 Module:
+        - Hardware Versions 5x and prior with Firmware Versions 4.0.2148 and prior
+        - Hardware Version 8x with Firmware Versions 5.0.1043 and prior
+    - H4-ECOM100 Module: Firmware Versions 4.0.2148 and prior
+
+
+Vulnerability risks:
+- Improper Input Validation could lead a Dos 
+- Improper Input Validation could forcing an operator manually restart 
+
+Patch available
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-345-02)
+
+> ###### CVE :
+> - [EN] [CVE-2020-25195](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25195)
+
+
+---
 ## [VULNERABILITY] Medtronic MyCareLink
 _10/12/2020_
 ```
