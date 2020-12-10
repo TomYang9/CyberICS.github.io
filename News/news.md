@@ -1,6 +1,23 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] Mitsubishi Electric MELSEC iQ-F Series
+_10/12/2020_
+```
+Vulnerability affects :
+- FX5U(C) CPU module: firmware Version 1.060 or earlier
+
+Vulnerability risks:
+- Improper Check or Handling of Exceptional Conditions (risk : DoS, reset CPU module)
+
+Patch available
+See the documents below for more information
+```
+
+> ###### CVE :
+> - [EN] [CVE-2020-5665](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5665)
+
+---
 ## [VULNERABILITY] Multiple Vulnerabilities in Schneider Electric 
 _08/12/2020_
 ```
