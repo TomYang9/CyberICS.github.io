@@ -1,6 +1,31 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] Medtronic MyCareLink
+_10/12/2020_
+```
+Vulnerability affects :
+- Smart Model 25000 Patient Reader, all versions
+
+Vulnerability risks:
+- Improper Authentication
+- Heap-based Buffer Overflow
+- Time-of-check Time-of-use Race Condition
+
+Patch available
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsma-20-345-01)
+- [EN] [Medtronic](https://www.medtronic.com/xg-en/product-security/security-bulletins.html)
+
+> ###### CVE :
+> - [EN] [CVE-2020-27252](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27252)
+> - [EN] [CVE-2020-25187](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25187)
+> - [EN] [CVE-2020-25183](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25183)
+
+---
 ## [VULNERABILITY] Mitsubishi Electric MELSEC iQ-F Series
 _10/12/2020_
 ```
