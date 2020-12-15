@@ -1,6 +1,40 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] Multiple Vulnerabilities in Symphony® Plus Historian
+_15/12/2020_
+```
+Vulnerability affects :
+- S + Historian 3.0 and 3.1
+
+Vulnerability risks:
+- SQL Injection
+- Improper Authorization
+- Weak Authentication
+- Insecure Windows Services
+- Web Application Security
+- Privilege Escalation
+- Denial of Service
+- ImproperCredentialStorage
+
+Patch available
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [ABB](https://search.abb.com/library/Download.aspx?DocumentID=2PAA123982&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+> ###### CVE :
+> - [EN] [CVE-2020-24673](https://nvd.nist.gov/vuln/detail/CVE-2020-24673)
+> - [EN] [CVE-2020-24674](https://nvd.nist.gov/vuln/detail/CVE-2020-24674)
+> - [EN] [CVE-2020-24675](https://nvd.nist.gov/vuln/detail/CVE-2020-24675)
+> - [EN] [CVE-2020-24676](https://nvd.nist.gov/vuln/detail/CVE-2020-24676)
+> - [EN] [CVE-2020-24677](https://nvd.nist.gov/vuln/detail/CVE-2020-24677)
+> - [EN] [CVE-2020-24678](https://nvd.nist.gov/vuln/detail/CVE-2020-24678)
+> - [EN] [CVE-2020-24679](https://nvd.nist.gov/vuln/detail/CVE-2020-24679)
+> - [EN] [CVE-2020-24680](https://nvd.nist.gov/vuln/detail/CVE-2020-24680)
+
+---
 ## [VULNERABILITY] Multiple Vulnerabilities in Symphony® Plus Operations
 _15/12/2020_
 ```
