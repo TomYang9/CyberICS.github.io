@@ -1,6 +1,40 @@
 # Industrial cybersecurity news
 
 ---
+
+## [VULNERABILITY]  Central Licensing System Vulnerabilities, impact on Symphony® Plus, Composer Harmony, Composer Melody, Harmony OPC Server
+_15/12/2020_
+```
+Vulnerability affects :
+- ABB Central Licensing System (CLS) as used in ABB Ability™Symphony Plus Operations (3.0 to 3.3)
+- ABB Central Licensing System (CLS) as used in ABB Ability™ Symphony Plus Engineering (1.0 to 2.3)
+- ABB Central Licensing System (CLS) as used in Composer Harmony (5.1, 6.0, 6.1)
+- ABB Central Licensing System (CLS) as used in Composer Melody(5.3, 6.1)
+- ABB Central Licensing System (CLS) as used in Harmony OPC Server (6.0, 6.1, 7.0)
+
+Vulnerability risks:
+- XXE vulnerability
+- Denial of Service
+- Elevation of privilege vulnerability
+- Weak File Permissions
+- Information Disclosure
+
+Patch available
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [ABB](https://search.abb.com/library/Download.aspx?DocumentID=2PAA123981&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+> ###### CVE :
+> - [EN] [CVE-2020-8481](https://nvd.nist.gov/vuln/detail/CVE-2020-8481)
+> - [EN] [CVE-2020-8479](https://nvd.nist.gov/vuln/detail/CVE-2020-8479)
+> - [EN] [CVE-2020-8475](https://nvd.nist.gov/vuln/detail/CVE-2020-8475)
+> - [EN] [CVE-2020-8476](https://nvd.nist.gov/vuln/detail/CVE-2020-8476)
+> - [EN] [CVE-2020-8471](https://nvd.nist.gov/vuln/detail/CVE-2020-8471)
+
+
+---
 ## [VULNERABILITY] Multiple Vulnerabilities in Symphony® Plus Historian
 _15/12/2020_
 ```
