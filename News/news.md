@@ -2,6 +2,42 @@
 
 ---
 
+## [VULNERABILITY] Lantronix XPort EDGE
+_16/12/2020_
+```
+Vulnerability affects :
+- Web Manager functionality of Lantronix XPort :
+    - Lantronix XPort EDGE 3.0.0.0R11
+    - Lantronix XPort EDGE 3.1.0.0R9
+    - Lantronix XPort EDGE 3.4.0.0R12
+    - Lantronix XPort EDGE 4.2.0.0R7
+    - Lantronix SGX 5150 8.7.0.0R1
+    - Lantronix SGX 5150 8.9.0.0R4
+
+Vulnerability risks:
+- Authentication bypass
+- Cleartext Transmission of Sensitive Information
+
+Snort rules : 
+alert tcp $EXTERNAL_NET any -> $HOME_NET $HTTP_PORTS ( msg:"POLICY-OTHER TRUFFLEHUNTER TALOS-2020-1135 attack attempt"; service:http; reference:cve,2020-13527; reference:url,www.talosintelligence.com/reports/TALOS-2020-1135/; classtype:policy-violation; soid:54762; gid:3; sid:54762; rev:1; )
+alert tcp $EXTERNAL_NET any -> $HOME_NET $HTTP_PORTS ( msg:"POLICY-OTHER TRUFFLEHUNTER TALOS-2020-1135 attack attempt"; service:http; reference:cve,2020-13527; reference:url,www.talosintelligence.com/reports/TALOS-2020-1135/; classtype:policy-violation; soid:54763; gid:3; sid:54763; rev:1; )
+alert tcp $EXTERNAL_NET any -> $HOME_NET $HTTP_PORTS ( msg:"POLICY-OTHER TRUFFLEHUNTER TALOS-2020-1135 attack attempt"; service:http; reference:cve,2020-13527; reference:url,www.talosintelligence.com/reports/TALOS-2020-1135/; classtype:policy-violation; soid:54764; gid:3; sid:54764; rev:1; )
+
+Patch available : https://www.lantronix.com/support-latest_release_by_product-html/
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Talos reports](https://talosintelligence.com/vulnerability_reports/TALOS-2020-1135)
+- [EN] [Talos reports](https://talosintelligence.com/vulnerability_reports/TALOS-2020-1136)
+- [EN] [Talos](https://blog.talosintelligence.com/2020/12/vuln-spotlight-landtronix-xport-edge-dec-2020.html)
+
+> ###### CVE :
+> - [EN] [CVE-2020-13527](https://nvd.nist.gov/vuln/detail/CVE-2020-24673)
+> - [EN] [CVE-2020-13528](https://nvd.nist.gov/vuln/detail/CVE-2020-24673)
+
+---
+
 ## [VULNERABILITY]  Central Licensing System Vulnerabilities, impact on Symphony® Plus, Composer Harmony, Composer Melody, Harmony OPC Server
 _15/12/2020_
 ```
