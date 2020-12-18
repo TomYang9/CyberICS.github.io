@@ -1,6 +1,32 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] Emerson Rosemount X-STREAM
+_16/12/2020_
+```
+Vulnerability affects :
+- X-STREAM enhanced XEGP – all revisions 
+- X-STREAM enhanced XEGK – all revisions 
+- X-STREAM enhanced XEFD – all revisions 
+- X-STREAM enhanced XEXF – all revisions
+
+
+Vulnerability risks:
+- download files and obtain sensitive information
+
+Patch available : 
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-352-01)
+- [EN] [EMERSON](https://www.emerson.com/en-us/support/security-notifications)
+
+
+> ###### CVE :
+> - [EN] [CVE-2020-27254](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27254)
+
+---
 
 ## [VULNERABILITY] Lantronix XPort EDGE
 _16/12/2020_
