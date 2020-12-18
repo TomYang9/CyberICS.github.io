@@ -1,6 +1,28 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] PTC Kepware LinkMaster
+_18/12/2020_
+```
+Vulnerability affects :
+- Kepware LinkMaster Version 3.0.94.0 and prior
+
+Vulnerability risks:
+- execute arbitrary code with NT SYSTEM privileges
+
+Patch available : 
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-352-03)
+- [EN] [PTC](https://my.kepware.com/s/login/?ec=302&startURL=%2Fs%2F)
+
+
+> ###### CVE :
+> - [EN] [CVE-2020-13535](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13535)
+
+---
 ## [VULNERABILITY] PTC Kepware KEPServerEX
 _18/12/2020_
 ```
