@@ -1,8 +1,41 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] PTC Kepware KEPServerEX
+_18/12/2020_
+```
+Vulnerability affects :
+- KEPServerEX: v6.0 to v6.9
+- ThingWorx Kepware Server: v6.8 and v6.9
+- ThingWorx Industrial Connectivity: All versions 
+- OPC-Aggregator: All versions
+And maybe :
+- Rockwell Automation KEPServer Enterprise
+- GE Digital Industrial Gateway Server: v7.68.804 and v7.66
+- Software Toolbox TOP Server: All 6.x versions
+
+Vulnerability risks:
+- server crashing
+- a denial-of-service condition
+- data leakage
+- remote code execution
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-352-02)
+- [EN] [PTC](https://my.kepware.com/s/login/?ec=302&startURL=%2Fs%2F)
+
+
+> ###### CVE :
+> - [EN] [CVE-2020-27265](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27265)
+> - [EN] [CVE-2020-27263](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27263)
+> - [EN] [CVE-2020-27267](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27267)
+
+---
 ## [VULNERABILITY] Emerson Rosemount X-STREAM
-_16/12/2020_
+_18/12/2020_
 ```
 Vulnerability affects :
 - X-STREAM enhanced XEGP – all revisions 
