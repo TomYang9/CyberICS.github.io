@@ -18,6 +18,9 @@ See the documents below for more information
 > ###### Sources :
 - [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-353-01)
 - [EN] [Treck](https://treck.com/vulnerability-response-information/)
+- [EN] [Schneider Electric](https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SEVD-2020-353-01_Treck_TCP-IPv6_Security_Notification.pdf&p_Doc_Ref=SEVD-2020-353-01)
+- [EN] [Schneider Electric](https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SEVD-2020-353-02_Treck_HTTP_Server_Vulnerability_TM3_Bus_Coupler_Modules_Security_Notification.pdf&p_Doc_Ref=SEVD-2020-353-02)
+- [EN] [Schneider Electric](https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SEVD-2020-175-01_Treck_Vulnerabilities_Ripple20_Security_Notification_V2.8.pdf&p_Doc_Ref=SEVD-2020-175-01)
 
 > ###### CVE :
 > - [EN] [CVE-2020-27336](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27336)
