@@ -1,6 +1,26 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] Panasonic FPWIN Pro
+_05/01/2020_
+```
+Vulnerability affects :
+- FPWIN Pro Version 7.5.0.0 and prior
+
+Vulnerability risks:
+- out-of-bounds read, which may allow remote code execution
+
+Patch available :
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-005-02)
+
+> ###### CVE :
+> - [EN] [CVE-2020-16236](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16236)
+
+---
 
 ## [VULNERABILITY] Schneider Electric Web Server on Modicon M340
 _05/01/2020_
