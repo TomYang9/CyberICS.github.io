@@ -1,6 +1,27 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] Delta Electronics CNCSoft ScreenEditor
+_05/01/2020_
+```
+Vulnerability affects :
+- CNCSoft ScreenEditor Versions 1.01.26 and prior
+
+Vulnerability risks:
+- arbitrary code execution
+
+Patch available :
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-005-06)
+- [EN] [Delta Electronics](https://downloadcenter.deltaww.com/en-US/DownloadCenter?v=1&CID=06&itemID=060202&dataType=8)
+
+> ###### CVE :
+> - [EN] [CVE-2020-27281](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27281)
+
+---
 
 ## [VULNERABILITY] Delta Electronics DOPSoft
 _05/01/2020_
