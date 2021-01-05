@@ -1,6 +1,31 @@
 # Industrial cybersecurity news
 
 ---
+
+## [VULNERABILITY] GE Reason RT43X Clocks
+_05/01/2020_
+```
+Vulnerability affects :
+- RT430, RT431 & RT434: All firmware versions prior to Version 08A06
+
+Vulnerability risks:
+- Code Injection
+- Use of Hard-coded Cryptographic Key
+
+Patch available :
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-005-03)
+- [EN] [GE](https://www.gegridsolutions.com/app/DownloadFile.aspx?prod=RT430&type=21&file=5)
+
+> ###### CVE :
+> - [EN] [CVE-2020-25197](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25197)
+> - [EN] [CVE-2020-25193](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25193)
+
+
+---
 ## [VULNERABILITY] Panasonic FPWIN Pro
 _05/01/2020_
 ```
