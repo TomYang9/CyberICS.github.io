@@ -1,6 +1,49 @@
 # Industrial cybersecurity news
 
 ---
+
+## [VULNERABILITY] Schneider Electric Web Server on Modicon M340
+_05/01/2020_
+```
+Vulnerability affects :
+- M340 CPUs
+    - BMX P34x, all versions
+- M340 Communication Ethernet modules
+    - BMX NOE 0100 (H), all versions
+    - BMX NOE 0110 (H), all versions
+    - BMX NOC 0401, all versions
+    - BMX NOR 0200H, all versions
+- Premium processors with integrated Ethernet COPRO
+    - TSXP574634, TSXP575634, TSXP576634, all versions
+- Premium communication modules
+    - TSXETY4103, all versions
+    - TSXETY5103, all versions
+- Quantum processors with integrated Ethernet COPRO
+    - 140CPU65xxxxx, all versions
+- Quantum communication modules
+    - 140NOE771x1, all versions
+    - 140NOC78x00, all versions
+    - 140NOC77101, all versions
+
+
+Vulnerability risks:
+- 
+
+Patch available :
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-005-01)
+- [EN] [SE](https://www.se.com/ww/en/download/document/SEVD-2020-315-01/)
+- [EN] [SE](https://www.se.com/ww/en/download/document/EIO0000001999/)
+
+> ###### CVE :
+> - [EN] [CVE-2020-7562](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7562)
+> - [EN] [CVE-2020-7563](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7563)
+> - [EN] [CVE-2020-7564](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7564)
+
+---
 ## [VULNERABILITY] Treck TCP/IP Stack 
 _19/12/2020_
 ```
