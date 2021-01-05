@@ -1,6 +1,31 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] Red Lion Crimson 3.1
+_05/01/2020_
+```
+Vulnerability affects :
+- Crimson 3.1: Build versions prior to 3119.001
+
+Vulnerability risks:
+- create a denial-of-service condition
+- read and modify the database
+- leak memory data
+
+Patch available :
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [RedLion](https://www.redlion.net/support/software-firmware/red-lion-software/crimson/crimson-31)
+- [EN] [RedLion](https://us-cert.cisa.gov/ics/advisories/icsa-21-005-04)
+
+> ###### CVE :
+> - [EN] [CVE-2020-27279](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27279)
+> - [EN] [CVE-2020-27285](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27285)
+> - [EN] [CVE-2020-27283](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27283)
+
+---
 
 ## [VULNERABILITY] GE Reason RT43X Clocks
 _05/01/2020_
