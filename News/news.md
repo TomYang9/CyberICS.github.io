@@ -1,6 +1,28 @@
 # Industrial cybersecurity news
 
 ---
+
+## [VULNERABILITY] Delta Electronics DOPSoft
+_05/01/2020_
+```
+Vulnerability affects :
+- DOPSoft Version 4.0.8.21 and prior
+
+Vulnerability risks:
+- 
+
+Patch available :
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-005-05)
+
+> ###### CVE :
+> - [EN] [CVE-2020-27275](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27275)
+> - [EN] [CVE-2020-27277](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27277)
+
+---
 ## [VULNERABILITY] Red Lion Crimson 3.1
 _05/01/2020_
 ```
