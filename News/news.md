@@ -1,6 +1,35 @@
 # Industrial cybersecurity news
 
 ---
+
+## [VULNERABILITY] Siemens SCALANCE X Products
+_16/01/2020_
+```
+Vulnerability affects :
+- SCALANCE X-200 switch family (incl. SIPLUS NET variants): All versions
+- SCALANCE X-200IRT switch family (incl. SIPLUS NET variants): All versions
+- SCALANCE X-300 switch family (incl. X408 and SIPLUS NET variants): All versions prior to v4.1.0
+
+
+Vulnerability risks:
+- denial-of-service conditions
+- buffer overflows
+
+Patch available :
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-012-05)
+- [EN] [Siemens](https://support.industry.siemens.com/cs/ww/en/view/109773547/)
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-139628.pdf)
+
+> ###### CVE :
+> - [EN] [CVE-2020-15799](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15799)
+> - [EN] [CVE-2020-15800](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15800)
+> - [EN] [CVE-2020-25226](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25226)
+
+---
 ## [VULNERABILITY] Delta Electronics CNCSoft ScreenEditor
 _05/01/2020_
 ```
