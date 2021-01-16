@@ -2,6 +2,28 @@
 
 ---
 
+## [VULNERABILITY] Siemens SCALANCE X Switches
+_16/01/2020_
+```
+Vulnerability affects :
+- SCALANCE X-200 switch family (incl. SIPLUS NET variants): All versions
+- SCALANCE X-200IRT switch family (incl. SIPLUS NET variants): All versions
+- SCALANCE X-300 switch family (incl. X408 and SIPLUS NET variants): All versions prior to v4.1.0
+
+Patch available :
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-012-02)
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-274900.pdf)
+
+> ###### CVE :
+> - [EN] [CVE-2020-28391](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28391)
+> - [EN] [CVE-2020-28395](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28395)
+
+---
+
 ## [VULNERABILITY] Siemens JT2Go and Teamcenter Visualization
 _16/01/2020_
 ```
