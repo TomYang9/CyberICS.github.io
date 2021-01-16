@@ -2,6 +2,41 @@
 
 ---
 
+## [VULNERABILITY] SOOIL Dana Diabecare RS Products
+_16/01/2020_
+```
+Vulnerability affects :
+- Dana Diabecare RS: All versions prior to 3.0
+- AnyDana-i: All versions prior to 3.0
+- AnyDana-A: All versions prior to 3.0
+
+Vulnerability risks:
+- access sensitive information
+- modify therapy settings
+- bypass authentication
+- crash the device being accessed
+
+These vulnerabilities could affect patient safety
+Patch available :
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsma-21-012-01)
+
+> ###### CVE :
+> - [EN] [CVE-2020-27256](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27256)
+> - [EN] [CVE-2020-27258](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27258)
+> - [EN] [CVE-2020-27264](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27264)
+> - [EN] [CVE-2020-27266](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27266)
+> - [EN] [CVE-2020-27268](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27268)
+> - [EN] [CVE-2020-27269](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27269)
+> - [EN] [CVE-2020-27270](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27270)
+> - [EN] [CVE-2020-27272](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27272)
+> - [EN] [CVE-2020-27276](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27276)
+
+---
+
 ## [VULNERABILITY] Schneider Electric EcoStruxure Power Build-Rapsody
 _16/01/2020_
 ```
