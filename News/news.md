@@ -2,6 +2,41 @@
 
 ---
 
+## [VULNERABILITY] Siemens JT2Go and Teamcenter Visualization
+_16/01/2020_
+```
+Vulnerability affects :
+- JT2Go: All versions prior to v13.1.0
+- JT2Go: Version 13.1.0. only affected by CVE-2020-26989, CVE-2020-26990, CVE-2020-26991
+- Teamcenter Visualization: All versions prior to V13.1.0
+- Teamcenter Visualization: Version 13.1.0 only affected by CVE-2020-26989, CVE-2020-26990, CVE-2020-26991
+
+Vulnerability risks:
+- Type Confusion
+- Improper Restriction of XML External Entity Reference
+-  Out-of-bounds Write
+-  Heap-based Buffer Overflow
+-  Stack-based Buffer Overflow
+-  Untrusted Pointer Dereference
+-  Out-of-bounds Read
+
+Patch available :
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-012-03)
+
+> ###### CVE :
+> - [EN] [CVE-2020-26980](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26980)
+> - [EN] [CVE-2020-26981](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26981)
+> - [EN] [CVE-2020-26982](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26982)
+> - [EN] [CVE-2020-26983](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26983)
+> - [EN] [CVE-2020-26984](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26984)
+> - [EN] [CVE-2020-26985](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26985)
+
+---
+
 ## [VULNERABILITY] Siemens Solid Edge
 _16/01/2020_
 ```
