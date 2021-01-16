@@ -2,6 +2,29 @@
 
 ---
 
+## [VULNERABILITY] Siemens Solid Edge
+_16/01/2020_
+```
+Vulnerability affects :
+- Solid Edge: All versions prior to SE2021MP2
+
+Patch available :
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-012-04)
+
+> ###### CVE :
+> - [EN] [CVE-2020-28381](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28381)
+> - [EN] [CVE-2020-28382](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28382)
+> - [EN] [CVE-2020-28383](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28383)
+> - [EN] [CVE-2020-28384](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28384)
+> - [EN] [CVE-2020-28386](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28386)
+> - [EN] [CVE-2020-26989](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26989)
+
+---
+
 ## [VULNERABILITY] Siemens SCALANCE X Products
 _16/01/2020_
 ```
