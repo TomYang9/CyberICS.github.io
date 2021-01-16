@@ -2,6 +2,29 @@
 
 ---
 
+## [VULNERABILITY] Schneider Electric EcoStruxure Power Build-Rapsody
+_16/01/2020_
+```
+Vulnerability affects :
+- EcoStruxure Power Build - Rapsody software Versions 2.1.13 and prior
+
+Vulnerability risks:
+- allow a local attacker to upload a malicious SSD file
+- resulting in a use-after-free condition or a stack-based buffer overflow
+
+Patch available :
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-012-01)
+
+> ###### CVE :
+> - [EN] [CVE-2021-22697](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22697)
+> - [EN] [CVE-2021-22698](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22698)
+
+---
+
 ## [VULNERABILITY] Siemens SCALANCE X Switches
 _16/01/2020_
 ```
