@@ -2,6 +2,34 @@
 
 ---
 
+## [VULNERABILITY] DNSpooq - Dnsmasq Vulnerabilities in SCALANCE and RUGGEDCOM Devices
+_19/01/2020_
+```
+Vulnerability affects :
+- RUGGEDCOM RM1224 : All versions
+- SCALANCE M-800 : All versions
+- SCALANCE S615 : All versions
+- SCALANCE SC-600 : All versions
+- SCALANCE W1750D : All versions
+
+Vulnerability risks:
+- Vulnerabilities impact the validation of DNS
+
+Patch available :
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-646763.pdf)
+- [EN] [Jsof Tech](https://www.jsof-tech.com/disclosures/dnspooq/)
+
+> ###### CVE :
+> - [EN] [CVE-2020-25684](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25684)
+> - [EN] [CVE-2020-25685](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25685)
+> - [EN] [CVE-2020-25686](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25686)
+
+---
+
 ## [VULNERABILITY] SOOIL Dana Diabecare RS Products
 _16/01/2020_
 ```
