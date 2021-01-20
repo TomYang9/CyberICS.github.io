@@ -2,6 +2,36 @@
 
 ---
 
+## [VULNERABILITY] Dnsmasq  
+_20/01/2020_
+```
+Vulnerability affects :
+- Dnsmasq DNS and DHCP server for version 2.8.2 and prior
+
+Vulnerability risks:
+- cache poisoning
+- remote code execution
+- denial-of-service 
+
+Patch available :
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-019-01)
+- [EN] [DNS Masq](https://www.thekelleys.org.uk/dnsmasq/)
+
+> ###### CVE :
+> - [EN] [CVE-2020-25681](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25681)
+> - [EN] [CVE-2020-25682](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25682)
+> - [EN] [CVE-2020-25683](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25683)
+> - [EN] [CVE-2020-25684](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25684)
+> - [EN] [CVE-2020-25685](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25685)
+> - [EN] [CVE-2020-25686](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25686)
+> - [EN] [CVE-2020-25687](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25687)
+
+---
+
 ## [VULNERABILITY] Reolink P2P Cameras
 _20/01/2020_
 ```
