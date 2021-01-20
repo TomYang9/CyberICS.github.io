@@ -2,6 +2,31 @@
 
 ---
 
+## [VULNERABILITY] Philips Interventional Workstations 
+_20/01/2020_
+```
+Vulnerability affects :
+-  Haswell workstations labeled with 12NC identification numbers (4598 009 39471, 4598 009 39481, 4598 009 70861, 4598 009 98531) with :
+   - Interventional Workspot (Release 1.3.2, 1.4.0, 1.4.1, 1.4.3, 1.4.5)
+   - Coronary Tools/Dynamic Coronary Roadmap/Stentboost Live (Release 1.0)
+   - ViewForum (Release 6.3V1L10)
+
+Vulnerability risks:
+- remotely shut down or restart the workstation
+
+Patch available :
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsma-21-019-01)
+- [EN] [Philips](https://www.philips.com/productsecurity)
+
+> ###### CVE :
+> - [EN] [CVE-2020-27298](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27298)
+
+---
+
 ## [VULNERABILITY] Dnsmasq  
 _20/01/2020_
 ```
