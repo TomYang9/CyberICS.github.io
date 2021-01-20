@@ -2,6 +2,31 @@
 
 ---
 
+## [VULNERABILITY] Reolink P2P Cameras
+_20/01/2020_
+```
+Vulnerability affects :
+- RLC-4XX series
+- RLC-5XX series
+- RLN-X10 series
+
+Vulnerability risks:
+- unauthorized access to sensitive information
+
+Patch available :
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-019-02)
+- [EN] [Reolink](https://reolink.com/download-center/)
+
+> ###### CVE :
+> - [EN] [CVE-2020-25169](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25169)
+> - [EN] [CVE-2020-25173](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25173)
+
+---
+
 ## [VULNERABILITY] DNSpooq - Dnsmasq Vulnerabilities in SCALANCE and RUGGEDCOM Devices
 _19/01/2020_
 ```
