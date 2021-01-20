@@ -2,6 +2,27 @@
 
 ---
 
+## [VULNERABILITY] ABB - AC500 V2
+_20/01/2020_
+```
+Vulnerability affects :
+- All AC500 V2 products with onboard ethernet
+
+Vulnerability risks:
+- Stop the PLC
+
+Patch available :
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [ABB](https://search.abb.com/library/Download.aspx?DocumentID=3ADR010667&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+> ###### CVE :
+> - [EN] [CVE-2020-24685](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24685)
+
+---
+
 ## [VULNERABILITY] Philips Interventional Workstations 
 _20/01/2020_
 ```
