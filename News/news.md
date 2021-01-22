@@ -2,6 +2,41 @@
 
 ---
 
+## [VULNERABILITY] Mitsubishi Electric MELFA
+_22/01/2020_
+```
+Vulnerability affects :
+- MELFA robot controllers :
+    - MELFA FR Series
+        - RV-#FR$%\-D-@ CR800-#V$D
+        - RH-#FRH$&\-D-@ CR800-#HD
+        - RH-#FRHR$&\-D-@ CR800-#HRD
+        - RV-#FR$%\-R-@ R16RTCPU + CR800-#V$R
+        - RH-#FRH$&\-R-@ R16RTCPU + CR800-#HR
+        - RH-#FRHR$&\-R-@ R16RTCPU + CR800-#HRR
+        - RV-#FR$%\-Q-@ Q172DSRCPU + CR800-#V$Q
+        - RH-#FRH$&\-Q-@ Q172DSRCPU + CR800-#HQ
+        - RH-#FRHR$&\-Q-@ Q172DSRCPU + CR800-#HRQ
+    - MELFA CR Series
+        - RV-8CRL-D-@ CR800-CVD
+        - RH-#CRH$&-D-@ CR800-CHD
+    - MELFA ASSISTA: RV-5AS-D-@ CR800-05VD
+
+Vulnerability risks:
+- denial-of-service condition
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Mitsubishi](https://www.mitsubishielectric.com/en/psirt/vulnerability/pdf/2020-007_en.pdf)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-021-04)
+
+> ###### CVE :
+> - [EN] [CVE-2021-20586](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20586)
+
+---
+
 ## [VULNERABILITY] Honeywell OPC UA Tunneller
 _22/01/2020_
 ```
