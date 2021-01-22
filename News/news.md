@@ -1,6 +1,36 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] WAGO M&M Software fdtCONTAINER
+_22/01/2020_
+```
+Vulnerability affects :
+- fdtCONTAINER component
+    - Versions between 3.5.0 and 3.5.20304.x
+    - Versions between 3.6.0 and 3.6.20304.x
+    - Versions older than 3.5
+- fdtCONTAINER application
+    - Versions between 4.5.0 and 4.5.20304.x
+    - Versions between 4.6.0 and 4.6.20304.x
+    - Versions older than 4.5
+- dtmINSPECTOR Version 3 (Based on FDT 1.2.x)
+- Emerson Rosemount Transmitter Interface Software (RTIS) SKUs: 04088-9000-0001, 4088-9000-0002, and 7000003-312
+- PEPPERL+FUCHS PACTware 5.0, up to and including Version 5.0.5.31
+
+Vulnerability risks:
+- user into loading a manipulated project file
+- malicious code can be executed without notice
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-021-05)
+
+> ###### CVE :
+> - [EN] [CVE-2020-12525](https://nvd.nist.gov/vuln/detail/CVE-2020-12525)
+
+---
 
 ## [VULNERABILITY] Mitsubishi Electric MELFA
 _22/01/2020_
