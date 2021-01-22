@@ -2,6 +2,33 @@
 
 ---
 
+## [VULNERABILITY] Honeywell OPC UA Tunneller
+_22/01/2020_
+```
+Vulnerability affects :
+- OPC UA Tunneller: All versions prior to 6.3.0.8233
+
+Vulnerability risks:
+- disclose sensitive information
+- remotely execute arbitrary code
+- crash the device
+
+Patch available
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [matrikonopc](https://www.matrikonopc.com/opc-ua/products/opc-ua-tunneller.aspx)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-021-03)
+
+> ###### CVE :
+> - [EN] [CVE-2020-27297](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27297)
+> - [EN] [CVE-2020-27299](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27299)
+> - [EN] [CVE-2020-27274](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27274)
+> - [EN] [CVE-2020-27295](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27295)
+
+---
+
 ## [VULNERABILITY] Delta Electronics TPEditor
 _22/01/2020_
 ```
