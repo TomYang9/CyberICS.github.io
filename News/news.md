@@ -2,6 +2,29 @@
 
 ---
 
+## [VULNERABILITY] Delta Electronics TPEditor
+_22/01/2020_
+```
+Vulnerability affects :
+- TPEditor: v1.98 and prior
+
+Vulnerability risks:
+- execute code under the privileges of the application
+
+Patch available :
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-021-02)
+- [EN] [DELTA](https://downloadcenter.deltaww.com/en-US/DownloadCenter?v=1&CID=06&itemID=060302&dataType=8&q=TPEditor)
+
+> ###### CVE :
+> - [EN] [CVE-2020-27288](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27288)
+> - [EN] [CVE-2020-27284](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27284)
+
+---
+
 ## [VULNERABILITY] Delta Electronics ISPSoft
 _22/01/2020_
 ```
