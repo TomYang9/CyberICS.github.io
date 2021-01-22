@@ -2,6 +2,26 @@
 
 ---
 
+## [VULNERABILITY] Delta Electronics ISPSoft
+_22/01/2020_
+```
+Vulnerability affects :
+- ISPSoft: v3.12 and prior
+
+Vulnerability risks:
+- execute code under the privileges of the application
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-021-01)
+
+> ###### CVE :
+> - [EN] [CVE-2020-27280](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27280)
+
+---
+
 ## [VULNERABILITY] ABB - AC500 V2
 _20/01/2020_
 ```
