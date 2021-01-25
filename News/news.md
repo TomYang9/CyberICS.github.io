@@ -85,6 +85,7 @@ See the documents below for more information
 > ###### Sources :
 - [EN] [matrikonopc](https://www.matrikonopc.com/opc-ua/products/opc-ua-tunneller.aspx)
 - [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-021-03)
+- [EN] [SecurityWeek](https://www.securityweek.com/industrial-firms-informed-about-serious-vulnerabilities-matrikon-opc-product)
 
 > ###### CVE :
 > - [EN] [CVE-2020-27297](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27297)
