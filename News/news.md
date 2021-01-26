@@ -1,6 +1,33 @@
 # Industrial cybersecurity news
 
+## [VULNERABILITY] Fuji Electric Tellus Lite V-Simulator and V-Server Lite
+_26/01/2020_
+```
+Vulnerability affects :
+- Tellus Lite V-Simulator: Versions prior to v4.0.10.0
+- V-Server Lite: Versions prior to v4.0.10.0
+
+Vulnerability risks:
+- Execute code under the privileges
+
+Patch available :
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-026-01)
+- [EN] [Fuji Electric - login required](https://felib.fujielectric.co.jp/download/details.htm?dataid=43821668&site=global&lang=en)
+- [EN] [Fuji Electric - login required](https://felib.fujielectric.co.jp/download/details.htm?dataid=43821669&site=global&lang=en)
+
+> ###### CVE :
+> - [EN] [CVE-2021-22637](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22637)
+> - [EN] [CVE-2021-22655](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22655)
+> - [EN] [CVE-2021-22653](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22653)
+> - [EN] [CVE-2021-22639](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22639)
+> - [EN] [CVE-2021-22641](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22641)
+
 ---
+
 ## [ATTACK] Hacking of a GTC system in Mexico
 _26/01/2021_
 ```
