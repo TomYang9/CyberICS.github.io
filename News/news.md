@@ -1,6 +1,13 @@
 # Industrial cybersecurity news
 
 ---
+## [ATTACK] Hacking of a GTC system in Mexico
+_26/01/2021_
+```
+A group of Iranian attackers hacked a GTC system of the University of Autónoma de Ciudad Juárez with a web interface. 
+```
+
+---
 ## [ATTACK] Email phishing targeting industries
 _26/01/2021_
 - Source Checkpoint : https://blog.checkpoint.com/2021/01/21/cyber-criminals-leave-stolen-phishing-credentials-in-plain-sight/
