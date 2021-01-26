@@ -1,6 +1,165 @@
 # Industrial cybersecurity news
 
 ---
+## [ATTACK] Email phishing targeting industries
+_26/01/2021_
+- Source Checkpoint : https://blog.checkpoint.com/2021/01/21/cyber-criminals-leave-stolen-phishing-credentials-in-plain-sight/
+- Source OTORIO : https://www.otorio.com/blog/cyber-criminals-leave-stolen-phishing-credentials-in-plain-sight/
+
+A phishing campaign targeting different industries has been revealed by the Israeli company OTORIO. The most targeted sectors are construction and energy.
+The phishing emails, mostly imitating Xerox scan notifications, contained an HTML file as an attachment. This HTML file contained a blurred image and a pop-up imitating the Office365 style asking for a password. The javascript in the HTML page performs a POST request to the attackers' servers.
+OTORIO also made the link with previous phishing campaigns dating back to May 2020 using the same javascript code obfuscation and HTML files.
+The names of the files distributed by the attacker use the following pattern :
+`scanXEROX-{IP}-{UPPERCASE_STRING_OF_CHARACTERS_SIZE_7}-{IP}.HTM`
+
+Répartition des cibles par secteurs :
+- Construction : 16.7%
+- Energy : 10.7%
+- Information technology 6.0%
+- Healthcare 4.5%
+- Real estate : 4.3%
+- Manufacturing : 4.3%
+- Education : 2.8%
+- Transportation 2.4%
+- Financial services : 2.1%
+- Retail : 2.1%
+
+TTP provided by OTORIO :
+- The emails are sent from a Linux server hosted on Microsoft’s Azure
+- The emails are often sent by using PHP Mailer 6.1.5 (latest version from Mar 19 to May 27)
+- The emails are delivered using 1&1 email servers
+
+Distribution of victims by country (Source : CyberICS) :
+- United Kingdom : 20
+- France : 1
+- Kenya : 4
+- United States : 27
+- Canada : 3
+- Nigeria : 2
+- Netherlands : 3
+- Australia : 7
+
+During the analysis, an alias comes up several times  : bobychenko
+This alias comes back in these rules Yara of August 2018 concerning a phishing attempt : https://github.com/Hestat/lw-yara/blob/master/includes/linkedin-phish001.yar
+
+This alias also returns as an author in malicious Word documents scanned on hybrid analysis :
+- https://www.hybrid-analysis.com/sample/cb1e7bbd1ce4886969ca127e11de9c083bbb8531841d6557ed18e52929f701b3?environmentId=100
+- https://www.hybrid-analysis.com/sample/f27fc965a0d05fa19c70a2127870419f709b1044d50146f3821bfaa86dc7cfa0?environmentId=100
+
+Some technical features are worth noting (Source: CyberICS):
+- The html page contains directly the background image in base64.
+- Javascript loads the location of the IP address via the legitimate site "json.geoiplookup.io".
+
+The domains associated with this campaign with IPs in DNS :
+
+|Domains|IP 1|IP 2|IP 3|
+|-|-|-|-|
+|quantityscape.xyz|185.212.129.131|
+|sendlivofse.xyz|45.88.3.86	|
+|urentr.xyz|185.212.128.132|
+|shlivemicrosft.xyz|45.88.3.86|
+|vintageredwe.xyz|45.88.3.70|
+|weworkhard.xyz|172.67.214.31|104.31.93.46|104.31.92.46	||
+|zixzanwe.xyz|45.88.3.70|
+|mtietw.xyz|185.212.128.62|
+|justgoturwork.xyz|172.67.211.250|104.24.117.51|104.24.116.51|
+|froffisse.xyz|45.88.3.37|
+
+The domains present in IOCs are hosted on an IP that has been used as a C&C for malware distribution. 
+For example the IP `185.212.129.131` was used for the `quantityscape[.]xyz` domain and according to Virustotal for malware distribution as `MSIL/Kryptik.WLD!tr`, `Trojan.TR/AD.LokiBot.inpgy`. No evidence could be found linking the phishing campaign to the spread of these malwares.
+
+The IPs involved come mainly from AS 200313 established in Les Sechelles.
+ 
+List of used registrar :
+- NameSilo LLC : 21 domains
+- Namecheap : 6 domains
+
+
+CyberICS IOCs :
+```
+gfbcqot[.]xyz
+emraanrajput[.]net
+sahatyah[.]shop
+```
+
+Other suspect domains (Source : CyberICS) :
+```
+facturasshigeurl.site	
+ns1.ionlineforyou.xyz	
+ns2.ionlineforyou.xyz 	
+serv.ionlineforyou.xyz
+office365working.xyz
+```
+
+OTORIO IOCs
+C&C domains registered by the attacker
+```
+aauths[.]xyz
+asklogzswq[.]xyz
+bdqopt[.]xyz
+drakovexlogz[.]xyz
+hrekre[.]xyz
+ionlineforyou[.]xyz
+itsthebestasajob[.]xyz
+khetwexw[.]xyz
+livestrde28[.]xyz
+loggsofice[.]xyz
+manonwork[.]xyz
+officeautonow[.]xyz
+officednslogsonline[.]xyz
+quantityscape[.]xyz
+redirectitto[.]xyz
+rhbreeef[.]xyz
+sendlivofse[.]xyz
+shlivemicrosft[.]xyz
+synchoilas[.]xyz
+urentr[.]xyz
+vintageredwe[.]xyz
+wegoforyou[.]xyz
+weworkhard[.]xyz
+workingoni[.]xyz
+zixzanwe[.]xyz
+mtietw[.]xyz
+justgoturwork[.]xyz
+froffisse[.]xyz
+```
+
+Recent C&C pages on compromised servers
+```
+http://corp.uber24[.]ru/php/go.php
+https://aparthotelgeres[.]pt/wp-content/plugins/1/post.php
+https://expendiatus[.]xyz/post.php
+https://ifultech[.]com/1/post.php
+https://www.aascarrierinc[.]com/wp-includes/SimplePie/Decode/HTML/rest.php
+https://silverstream-london[.]com/1/post.php
+https://actorsstudio.com[.]np/wp-admin/includes/1/post.php
+http://365itsos.com[.]au/wp-admin/includes/rent.php
+https://www.skyblue-network[.]com/wp-includes/images/go.php
+https://www.kayakingfloridakeys[.]com/wp-admin/rent.php
+https://easimedic[.]com/1/post.php
+https://www.aascarrierinc[.]com/wp-includes/SimplePie/Decode/HTML/rest.php
+```
+
+HTML Phishing pages
+SHA-1:
+```
+e76eb571068c195444d0e23cbdc35fba19a95e0c
+9fc656e03703994d5f144457d020db5b06469abc
+79d4464c7325feb38a02726b049d6cce3d747627
+44c05f4b2bb0787a9c2fcf7c36e1dab457fbe370
+c1ec15c712c29dcac08660fddb0da71e94b3d04a
+4933bd2fa4c9a3ea30ac479a738ebcdfb488044f
+d098f6473f2f6bfd8e3f2f14dd56adc969e76725
+a8e817fa63fe2c5bf0273f63f2267b61ce89de72
+37713a64ffd1b126f8a4809e94faf9cd72538974
+53c4ccab781d93eb04ff5bcfc01321c11958816c
+4f309c3a8d754a3fcdfed611e4f101e6b690ddd5
+cccf673f3c9c02f5f9a21346cdc91f78d94c92b3
+2ac423a86d94d82cc0ecc3c508aa7a90c27a4b9c
+```
+
+
+---
 ## [VULNERABILITY] WAGO M&M Software fdtCONTAINER
 _22/01/2020_
 ```
