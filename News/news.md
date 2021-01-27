@@ -1,5 +1,44 @@
 # Industrial cybersecurity news
 
+
+## [ATTACK] SunBurst in industrial environment
+_27/01/2021_
+
+On December 13, 2020, several organizations published the Orion IT software supply chain analysis.
+According to Kaspersky, 32.4% of impacted companies are in the industry.
+The statistics :
+- Manufacturing : 18.11%
+- Utilities : 3.2%
+- Construction : 3.03%
+- Transportation & logistics : 2.97%
+- Oil & Gas : 1.35%
+- Mining : 1.19%
+- Energy : 0.81%
+- Aerospace and military : 0.59%
+- Engineering & ICS integration : 0.54%
+- ICS software : 0.27%
+- Waste recycling/utilization : 0.27%
+
+Truesec has cited a list of potential victims, here is the one related to the industry (source: TrueSec) :
+
+| Decoded Internal Name	| Possible Organization (may be inaccurate)* |	Observed Message	| First Seen
+|-|-|-|-|
+resprod.com	| Res Group (Renewable energy company) |	2nd stage	| 2020-05-06 |
+te.nz |	TE Connectivity (Sensor manufacturer)	| 2nd stage|	2020-05-13
+fisherbartoninc.com	|The Fisher Barton Group (Blade Manufacturer)	|2nd stage|	2020-05-15
+ironform.com|	Ironform (metal fabrication)|	2nd stage|	2020-06-19
+mixonhill.com	 |Mixon Hill (intelligent transportation systems)	|Terminate|	2020-04-29
+bisco.int	|Bisco International (Adhesives and tapes)|	Unknown|	2020-04-30
+helixwater.org|	Helix Water District|	N/A|	N/A
+
+
+Source :
+- https://blog.truesec.com/2020/12/17/the-solarwinds-orion-sunburst-supply-chain-attack/
+- https://ics-cert.kaspersky.com/reports/2021/01/26/sunburst-industrial-victims/
+- https://github.com/bambenek/research/blob/main/sunburst/uniq-hostnames.txt
+
+---
+
 ## [VULNERABILITY] Fuji Electric Tellus Lite V-Simulator and V-Server Lite
 _26/01/2020_
 ```
