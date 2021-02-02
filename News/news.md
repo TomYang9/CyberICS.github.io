@@ -2,7 +2,28 @@
 
 ---
 
-## [VULNERABILITY] ABB AC500V2 Webserver denial of servicevulnerability
+## [VULNERABILITY] Siemens SIMATIC HMI Comfort Panels & SIMATIC HMI KTP Mobile Panels
+_02/02/2020_
+```
+Vulnerability affects :
+- SIMATIC HMI Comfort Panel (including SIPLUS variants): All versions before v16 Update 3a
+- SIMATIC HMI KTP Mobile Panels: All versions before v16 Update 3a
+
+Vulnerability risks:
+-  remote attacker gain full access to the device(s) if the Telnet service is enabled
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-033-02)
+
+> ###### CVE :
+> - [EN] [CVE-2020-15798](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15798)
+
+---
+
+## [VULNERABILITY] ABB AC500V2 Webserver denial of service vulnerability
 _02/02/2020_
 ```
 Vulnerability affects :
