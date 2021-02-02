@@ -1,5 +1,32 @@
 # Industrial cybersecurity news
 
+---
+
+## [VULNERABILITY] ABB AC500V2 Webserver denial of servicevulnerability
+_02/02/2020_
+```
+Vulnerability affects :
+- The following AC500 V2 products with onboard ethernet are affected :
+  - PM554
+  - PM556
+  - PM564
+  - PM566
+  - PM572
+  - PM573
+
+Vulnerability risks:
+- denial of service (see below)
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [ABB](https://search.abb.com/library/Download.aspx?DocumentID=3ADR010645&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+> ###### CVE :
+> - [EN] [CVE-2020-24686](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24686)
+
+---
 
 ## [ATTACK] SunBurst in industrial environment
 _27/01/2021_
