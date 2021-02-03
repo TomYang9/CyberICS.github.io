@@ -2,6 +2,28 @@
 
 ---
 
+## [VULNERABILITY] Hirschmann RSP, RSPE, and OS2 series HSR denial of service vulnerability
+_03/02/2020_
+```
+Vulnerability affects :
+- Hirschmann HiOS RSP, RSPE, OS2 :
+  - 07.0.04 –07.1.00
+  - 08.0.00 –08.3.xx
+
+Vulnerability risks:
+- denial of service
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [BELDEN](https://www.belden.com/dfsmedia/f1e38517e0cd4caa8b1acb6619890f5e/12276-source/options/view)
+
+> ###### CVE :
+> - [EN] [CVE-2020-9307](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-9307)
+
+---
+
 ## [VULNERABILITY] Rockwell Automation MicroLogix 1400
 _02/02/2020_
 ```
