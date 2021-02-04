@@ -2,6 +2,36 @@
 
 ---
 
+## [VULNERABILITY] Luxion KeyShot
+_04/02/2020_
+```
+Vulnerability affects :
+- Luxion software
+  - KeyShot versions prior to 10.1
+  - KeyShot Viewer versions prior to 10.1
+  - KeyShot Network Rendering versions prior to 10.1
+  - KeyVR versions prior to 10.1
+
+
+Vulnerability risks:
+- arbitrary code execution
+- the storing of arbitrary scripts into automatic startup folders
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-035-01)
+
+> ###### CVE :
+> - [EN] [CVE-2021-22651](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22651)
+> - [EN] [CVE-2021-22649](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22649)
+> - [EN] [CVE-2021-22647](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22647)
+> - [EN] [CVE-2021-22645](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22645)
+> - [EN] [CVE-2021-22643](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22643)
+
+---
+
 ## [VULNERABILITY] Horner Automation Cscape
 _04/02/2020_
 ```
