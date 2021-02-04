@@ -2,6 +2,26 @@
 
 ---
 
+## [VULNERABILITY] Horner Automation Cscape
+_04/02/2020_
+```
+Vulnerability affects :
+- Cscape: All versions prior to 9.90 SP3.5
+
+Vulnerability risks:
+- Code execution in the context of the current process
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-035-02)
+
+> ###### CVE :
+> - [EN] [CVE-2021-22663](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22663)
+
+---
+
 ## [VULNERABILITY] Hirschmann RSP, RSPE, and OS2 series HSR denial of service vulnerability
 _03/02/2020_
 ```
