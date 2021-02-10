@@ -3,6 +3,26 @@
 
 ---
 
+## [VULNERABILITY] Siemens SIMARIS configuration
+_10/02/2020_
+```
+Vulnerability affects :
+- SIMARIS configuration: All versions
+
+Vulnerability risks:
+- gain persistence or escalate privileges within the system
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-040-08)
+
+> ###### CVE :
+> - [EN] [CVE-2020-28392](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28392)
+
+---
+
 ## [VULNERABILITY] SIMATIC WinCC Graphics Designer
 _10/02/2020_
 ```
