@@ -2,8 +2,28 @@
 
 ---
 
+## [VULNERABILITY] Siemens DIGSI 4
+_10/02/2020_
+```
+Vulnerability affects :
+- DIGSI 4: All versions prior to v4.94 SP1 HF 1
+
+Vulnerability risks:
+- execute arbitrary code with SYSTEM privileges
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-040-10)
+
+> ###### CVE :
+> - [EN] [CVE-2020-25245](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25245)
+
+---
+
 ## [ATTACK] Attack on Florida's Watter Treatment System
-_04/02/2020_
+_10/02/2020_
 ```
 The attacker changed the level of sodium hydroxide in the water treatment plant of the town of Oldsmar.
 According to the town sheriff, the attacker used TeamViewer.
