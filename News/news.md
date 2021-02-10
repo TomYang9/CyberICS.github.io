@@ -3,6 +3,39 @@
 
 ---
 
+## [VULNERABILITY] Siemens RUGGEDCOM ROX II
+_10/02/2020_
+```
+Vulnerability affects :
+- RUGGEDCOM ROX MX5000: All versions prior to v2.14.0
+- RUGGEDCOM ROX RX1400: All versions prior to v2.14.0
+- RUGGEDCOM ROX RX1500: All versions prior to v2.14.0
+- RUGGEDCOM ROX RX1501: All versions prior to v2.14.0
+- RUGGEDCOM ROX RX1510: All versions prior to v2.14.0
+- RUGGEDCOM ROX RX1511: All versions prior to v2.14.0
+- RUGGEDCOM ROX RX1512: All versions prior to v2.14.0
+- RUGGEDCOM ROX RX500: All versions prior to v2.14.0
+
+
+Vulnerability risks:
+- allow the decryption of encrypted content, possible code execution, or cause a system crash, resulting in a denial-of-service condition
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-040-04)
+
+> ###### CVE :
+> - [EN] [CVE-2018-12404](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-12404)
+> - [EN] [CVE-2018-18508](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-18508)
+> - [EN] [CVE-2019-11745](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-11745)
+> - [EN] [CVE-2019-17006](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-17006)
+> - [EN] [CVE-2019-17007](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-17007)
+> - [EN] [CVE-2020-1763](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1763)
+
+---
+
 ## [VULNERABILITY] Siemens TIA Administrator
 _10/02/2020_
 ```
