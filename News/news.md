@@ -3,6 +3,47 @@
 
 ---
 
+## [VULNERABILITY] Siemens JT2Go and Teamcenter Visualization
+_10/02/2020_
+```
+Vulnerability affects :
+- JT2Go: All versions prior to v13.1.0.1
+- Teamcenter Visualization: All versions prior to v13.1.0.1
+
+Vulnerability risks:
+- Arbitrary code execution
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-040-06)
+
+> ###### CVE :
+> - [EN] [CVE-2020-26998](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26998)
+> - [EN] [CVE-2020-26999](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26999)
+> - [EN] [CVE-2020-27000](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27000)
+> - [EN] [CVE-2020-27001](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27001)
+> - [EN] [CVE-2020-27002](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27002)
+> - [EN] [CVE-2020-27003](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27003)
+> - [EN] [CVE-2020-27004](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27004)
+> - [EN] [CVE-2020-27005](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27005)
+> - [EN] [CVE-2020-27006](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27006)
+> - [EN] [CVE-2020-27007](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27007)
+> - [EN] [CVE-2020-27008](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27008)
+> - [EN] [CVE-2020-28394](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28394)
+> - [EN] [CVE-2020-26989](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26989)
+> - [EN] [CVE-2020-26990](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26990)
+> - [EN] [CVE-2020-26991](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26991)
+> - [EN] [CVE-2021-25178](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25178)
+> - [EN] [CVE-2021-25177](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25177)
+> - [EN] [CVE-2021-25176](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25176)
+> - [EN] [CVE-2021-25175](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25175)
+> - [EN] [CVE-2021-25174](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25174)
+> - [EN] [CVE-2021-25173](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25173)
+
+---
+
 ## [VULNERABILITY] Siemens SCALANCE W780 and W740
 _10/02/2020_
 ```
