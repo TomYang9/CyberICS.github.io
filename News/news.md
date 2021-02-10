@@ -2,6 +2,18 @@
 
 ---
 
+## [ATTACK] Attack on Florida's Watter Treatment System
+_04/02/2020_
+```
+The attacker changed the level of sodium hydroxide in the water treatment plant of the town of Oldsmar.
+According to the town sheriff, the attacker used TeamViewer.
+```
+
+> ###### Sources :
+- [EN] [The HAcker News](https://thehackernews.com/2021/02/hacker-tried-poisoning-water-supply.html)
+
+---
+
 ## [VULNERABILITY] Luxion KeyShot
 _04/02/2020_
 ```
