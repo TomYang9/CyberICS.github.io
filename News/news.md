@@ -3,6 +3,28 @@
 
 ---
 
+## [VULNERABILITY] Siemens SINEMA Server & SINEC NMS
+_10/02/2020_
+```
+Vulnerability affects :
+- SINEC NMS: All versions prior to v1.0 SP1 Update 1
+- SINEMA Server: All versions prior to v14.0 SP2 Update 2
+
+
+Vulnerability risks:
+- allow arbitrary code execution on an affected system
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-040-03)
+
+> ###### CVE :
+> - [EN] [CISA](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25237)
+
+---
+
 ## [VULNERABILITY] Siemens RUGGEDCOM ROX II
 _10/02/2020_
 ```
