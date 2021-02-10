@@ -3,6 +3,30 @@
 
 ---
 
+## [VULNERABILITY] Advantech iView
+_10/02/2020_
+```
+Vulnerability affects :
+- iView versions prior to v5.7.03.6112
+
+Vulnerability risks:
+- may allow an attacker to disclose information, escalate privileges to Administrator, perform an arbitrary file read, and remotely execute commands
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-040-02)
+
+> ###### CVE :
+> - [EN] [CVE-2021-22654](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22654)
+> - [EN] [CVE-2021-22658](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22658)
+> - [EN] [CVE-2021-22656](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22656)
+> - [EN] [CVE-2021-22652](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22652)
+
+
+---
+
 ## [VULNERABILITY] Siemens SINEMA Server & SINEC NMS
 _10/02/2020_
 ```
