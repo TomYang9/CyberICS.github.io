@@ -3,6 +3,27 @@
 
 ---
 
+## [VULNERABILITY] GE Digital HMI/SCADA iFIX
+_10/02/2020_
+```
+Vulnerability affects :
+- HMI/SCADA iFIX: Versions 6.1 and prior
+
+Vulnerability risks:
+- could allow an attacker to escalate their privileges
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-040-01)
+
+> ###### CVE :
+> - [EN] [CVE-2019-18243](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-18243)
+> - [EN] [CVE-2019-18255](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-18255)
+
+---
+
 ## [VULNERABILITY] Advantech iView
 _10/02/2020_
 ```
