@@ -3,6 +3,27 @@
 
 ---
 
+## [VULNERABILITY] Siemens TIA Administrator
+_10/02/2020_
+```
+Vulnerability affects :
+- PCS neo (Administration Console): v3.0
+- TIA Portal: v15, v15.1, and v16
+
+Vulnerability risks:
+- allow local users to escalate privileges and execute code as a local SYSTEM user
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-040-05)
+
+> ###### CVE :
+> - [EN] [CVE-2020-25238](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25238)
+
+---
+
 ## [VULNERABILITY] Siemens JT2Go and Teamcenter Visualization
 _10/02/2020_
 ```
