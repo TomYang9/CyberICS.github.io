@@ -3,6 +3,26 @@
 
 ---
 
+## [VULNERABILITY] Siemens SCALANCE W780 and W740
+_10/02/2020_
+```
+Vulnerability affects :
+- SCALANCE W780 and W740 (IEEE 802.11n) family: All versions prior to v6.3
+
+Vulnerability risks:
+- denial-of-service condition
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [](https://us-cert.cisa.gov/ics/advisories/icsa-21-040-07)
+
+> ###### CVE :
+> - [EN] [CVE-2021-25666](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25666)
+
+---
+
 ## [VULNERABILITY] Siemens SIMARIS configuration
 _10/02/2020_
 ```
