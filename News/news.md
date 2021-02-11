@@ -1,5 +1,47 @@
 # Industrial cybersecurity news
 
+---
+
+## [VULNERABILITY] Multiple Embedded TCP/IP stacks
+_11/02/2020_
+```
+Vulnerability affects :
+  - spoof TCP connections
+  - cause denial-of-service conditions
+  - inject malicious data
+  - bypass authentication
+
+Vulnerability risks:
+    - Nut/Net, Version 5.1 and prior
+    - CycloneTCP, Version 1.9.6 and prior
+    - NDKTCPIP, Version 2.25 and prior
+    - FNET, Version 4.6.3
+    - uIP-Contiki-OS (end-of-life [EOL]), Version 3.0 and prior
+    - uC/TCP-IP (EOL), Version 3.6.0 and prior
+    - uIP-Contiki-NG, Version 4.5 and prior
+    - uIP (EOL), Version 1.0 and prior
+    - picoTCP-NG, Version 1.7.0 and prior
+    - picoTCP (EOL), Version 1.7.0 and prior
+    - MPLAB Net, Version 3.6.1 and prior
+    - Nucleus NET, All versions prior to Version 5.2
+    - Nucleus ReadyStart for ARM, MIPS, and PPC, All versions prior to Version 2012.12
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-042-01)
+
+> ###### CVE :
+> - [EN][CVE-2020-27213](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27213)
+> - [EN][CVE-2020-27630](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27630)
+> - [EN][CVE-2020-27631](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27631)
+> - [EN][CVE-2020-27632](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27632)
+> - [EN][CVE-2020-27633](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27633)
+> - [EN][CVE-2020-27634](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27634)
+> - [EN][CVE-2020-27635](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27635)
+> - [EN][CVE-2020-27636](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27636)
+> - [EN][CVE-2020-28388](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28388)
 
 ---
 
