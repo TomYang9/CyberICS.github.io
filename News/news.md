@@ -2,6 +2,30 @@
 
 ---
 
+## [VULNERABILITY] Rockwell Automation DriveTools SP and Drives AOP
+_11/02/2020_
+```
+Vulnerability affects :
+    - DriveTools SP v5.13 and below
+      - DriveExecutive v5.13 and below
+    - Drives AOP v4.12 and below (supports Logix Versions v16-v30)
+
+
+Vulnerability risks:
+- privilege escalation
+- total loss of device confidentiality, integrity, and availability
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-042-02)
+
+> ###### CVE :
+> - [EN] [CVE-2021-22665](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22665)
+
+---
+
 ## [VULNERABILITY] Multiple Embedded TCP/IP stacks
 _11/02/2020_
 ```
