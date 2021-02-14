@@ -2661,6 +2661,7 @@ See the documents below for more information
 
 > ###### Sources :
 - [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-203-01)
+- [EN] [BR-Automation](https://www.br-automation.com/downloads_br_productcatalogue/assets/1612708452634-en-original-1.0.pdf)
 
 > ###### CVE :
 > - [EN] [CVE-2020-14519](https://cve.mitre.org/cgi-bin/cvename.bin?name=CVE-2020-14519)
