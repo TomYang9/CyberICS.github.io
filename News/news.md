@@ -322,6 +322,7 @@ According to the town sheriff, the attacker used TeamViewer.
 
 > ###### Sources :
 - [EN] [The HAcker News](https://thehackernews.com/2021/02/hacker-tried-poisoning-water-supply.html)
+- [EN] [Dragos](https://www.dragos.com/blog/industry-news/recommendations-following-the-oldsmar-water-treatment-facility-cyber-attack/)
 
 ---
 
