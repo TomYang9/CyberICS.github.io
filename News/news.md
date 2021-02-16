@@ -1,6 +1,17 @@
 # Industrial cybersecurity news
 
 ---
+## [RESSOURCES] FireEye analyzes the TriStation protocol with reverse lookup on TRITON malware
+_16/02/2020_
+```
+FireEye has published a research paper on the proprietary TriStation protocol used during the TRITON attack (https://www.cyberark.com/resources/threat-research-blog/anatomy-of-the-triton-malware-attack).
+The article details how the complex TriStation protocol works from the TRITON malware.
+It explains how the attackers used an old DLL named "tr1com40.dll" to interface with PLCs, but also the limits of reverse engineering. 
+
+Source : https://www.fireeye.com/blog/threat-research/2018/06/totally-tubular-treatise-on-triton-and-tristation.html
+```
+
+---
 
 ## [VULNERABILITY] Rockwell Automation DriveTools SP and Drives AOP
 _11/02/2020_
