@@ -2,6 +2,34 @@
 
 ---
 
+## [VULNERABILITY] Open Design Alliance Drawings SDK
+_16/02/2020_
+```
+Vulnerability affects :
+- Drawings SDK: All versions prior to 2021.12 (Version 2021.11 is only affected by CVE-2021-25174 and CVE-2021-25173)
+
+Vulnerability risks:
+- Code execution
+- DoS condition
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-047-01)
+- [EN] [Open Design Alliance’s](https://www.opendesign.com/security-advisories)
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-663999.pdf)
+
+> ###### CVE :
+> - [EN] [CVE-2021-25173](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25173)
+> - [EN] [CVE-2021-25174](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25174)
+> - [EN] [CVE-2021-25175](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25175)
+> - [EN] [CVE-2021-25176](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25176)
+> - [EN] [CVE-2021-25177](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25177)
+> - [EN] [CVE-2021-25178](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25178)
+
+---
+
 ## [VULNERABILITY] Hamilton-T1
 _16/02/2020_
 ```
