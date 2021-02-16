@@ -2,6 +2,28 @@
 
 ---
 
+## [VULNERABILITY] Rockwell Automation Allen-Bradley Micrologix 1100
+_16/02/2020_
+```
+Vulnerability affects :
+- Allen-Bradley MicroLogix 1100 revision number 1.0
+
+Vulnerability risks:
+- DoS condition
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Rockwell - login required](https://compatibility.rockwellautomation.com/Pages/MultiProductFindDownloads.aspx?crumb=112&refSoft=1&toggleState=&versions=58288,58298)
+- [EN] [Rockwell firmeware update](https://compatibility.rockwellautomation.com/Pages/MultiProductFindDownloads.aspx?crumb=112&refSoft=1&toggleState=&versions=58288,58298)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-047-02)
+
+> ###### CVE :
+> - [EN] [CVE-2020-6111](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6111)
+
+---
+
 ## [VULNERABILITY] Open Design Alliance Drawings SDK
 _16/02/2020_
 ```
