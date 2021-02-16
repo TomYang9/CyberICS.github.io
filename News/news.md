@@ -1,6 +1,28 @@
 # Industrial cybersecurity news
 
 ---
+
+## [VULNERABILITY] Hamilton-T1
+_16/02/2020_
+```
+Vulnerability affects :
+-  Hamilton-T1 Ventilator Versions 2.2.3 and prior
+
+Vulnerability risks:
+- obtain sensitive information / crash the device (physical action is required) with hard-coded credentials and Missing XML Validation
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsma-21-047-01)
+
+> ###### CVE :
+> - [EN] [CVE-2020-27278](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27278)
+> - [EN] [CVE-2020-27282](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27282)
+> - [EN] [CVE-2020-27290](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27290)
+
+---
 ## [RESSOURCES] FireEye analyzes the TriStation protocol with reverse lookup on TRITON malware
 _16/02/2020_
 ```
