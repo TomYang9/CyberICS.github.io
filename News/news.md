@@ -1,6 +1,19 @@
 # Industrial cybersecurity news
 
 ---
+## [RESSOURCES] Identification of vulnerabilities on IIoT equipment
+_17/02/2020_
+```
+FireEye has published two research papers on vulnerabilities in ConnectPort X2e devices. These devices are used in residential solar installations.
+These articles explain how FireEye researchers discovered these vulnerabilities.
+
+
+Source : https://www.fireeye.com/blog/threat-research/2021/02/solarcity-exploitation-of-x2e-iot-device-part-one.html
+Source : https://www.fireeye.com/blog/threat-research/2021/02/solarcity-exploitation-of-x2e-iot-device-part-two.html
+
+```
+
+---
 
 ## [VULNERABILITY] Rockwell Automation Allen-Bradley Micrologix 1100
 _16/02/2020_
