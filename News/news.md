@@ -2,6 +2,67 @@
 
 ---
 
+## [VULNERABILITY] Mitsubishi Electric FA engineering software products
+_18/02/2021_
+```
+Vulnerability affects :
+  - C Controller module setting and monitoring tool, all versions
+  - CPU Module Logging Configuration Tool, all versions
+  - CW Configurator, all versions
+  - Data Transfer, all versions
+  - EZSocket, all versions
+  - FR Configurator, all versions
+  - FR Configurator SW3, all versions
+  - FR Configurator2, all versions
+  - GT Designer3 Version1(GOT1000), all versions
+  - GT Designer3 Version1(GOT2000), all versions
+  - GT SoftGOT1000 Version3, all versions
+  - GT SoftGOT2000 Version1, all versions
+  - GX Configurator-DP, Versions 7.14Q and prior
+  - GX Configurator-QP, all versions
+  - GX Developer, all versions
+  - GX Explorer, all versions
+  - GX IEC Developer, all versions
+  - GX LogViewer, all versions
+  - GX RemoteService-I, all versions
+  - GX Works2, Versions 1.597X and prior
+  - GX Works3, Versions 1.070Y and prior
+  - M_CommDTM-HART, all versions
+  - M_CommDTM-IO-Link, all versions
+  - MELFA-Works, all versions
+  - MELSEC WinCPU Setting Utility, all versions
+  - MELSOFT EM Software Development Kit (EM Configurator), all versions
+  - MELSOFT Navigator, all versions
+  - MH11 SettingTool Version2, all versions
+  - MI Configurator, all versions
+  - MT Works2, all versions
+  - MX Component, all versions
+  - Network Interface Board CC IE Control utility, all versions
+  - Network Interface Board CC IE Field Utility, all versions
+  - Network Interface Board CC-Link Ver.2 Utility, all versions
+  - Network Interface Board MNETH utility, all versions
+  - PX Developer, all versions
+  - RT ToolBox2, all versions
+  - RT ToolBox3, all versions
+  - Setting/monitoring tools for the C Controller module, all versions
+  - SLMP Data Collector, all versions
+
+Vulnerability risks:
+- denial-of-service condition
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Mitsubishi](https://www.mitsubishielectric.com/en/psirt/vulnerability/pdf/2020-021_en.pdf)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-049-01)
+
+> ###### CVE :
+> - [EN] [CVE-2021-20588](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20588)
+> - [EN] [CVE-2021-20587](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20587)
+
+---
+
 ## [VULNERABILITY] Johnson Controls Metasys Reporting Engine (MRE) Web Services
 _18/02/2021_
 ```
