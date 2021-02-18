@@ -2,6 +2,28 @@
 
 ---
 
+## [VULNERABILITY] Johnson Controls Metasys Reporting Engine (MRE) Web Services
+_18/02/2021_
+```
+Vulnerability affects :
+- Metasys Reporting Engine (MRE) Web Services – v2.0
+- Metasys Reporting Engine (MRE) Web Services – v2.1
+
+Vulnerability risks:
+- remote unauthenticated attacker to access and download arbitrary files from the system
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Johnson Controls](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-049-02)
+
+> ###### CVE :
+> - [EN] [CVE-2020-9050](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9050)
+
+---
+
 ## [VULNERABILITY] Multiple vulnerability in Moxa product
 _18/02/2021_
 ```
