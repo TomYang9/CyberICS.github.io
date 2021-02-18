@@ -1,8 +1,64 @@
 # Industrial cybersecurity news
 
 ---
+
+## [VULNERABILITY] Multiple vulnerability in Moxa product
+_18/02/2021_
+```
+Vulnerability affects :
+  - UC-2100 Series 	Moxa Industrial Linux v1.0
+  - UC-2100-W Series 	Moxa Industrial Linux v1.0
+  - UC-3100 Series 	Moxa Industrial Linux v1.0
+  - UC-5100 Series 	Moxa Industrial Linux v1.0
+  - UC-8100 Series 	Moxa Industrial Linux v1.0
+  - UC-8100A-ME-T Series 	Moxa Industrial Linux v1.0
+  - UC-8100-ME-T Series 	Debian 8.x
+  - UC-8100-ME-T Series 	Moxa Industrial Linux v1.0
+  - UC-8200 Series 	Moxa Industrial Linux v1.0
+  - UC-8410A Series 	Debian 8.x
+  - UC-8410A Series 	Moxa Industrial Linux v1.0
+  - UC-8540 Series 	Debian 8.x
+  - UC-8580 Series 	Moxa Industrial Linux v1.0
+  - MC-1100 Series 	Debian 8.x
+  - MC-1100 Series 	Debian 9.x
+  - MC-1200 Series 	Debian 9.x
+  - V2201 Series 	Debian 9.x
+  - V2403 Series 	Debian 9.x
+  - V2406A Series 	Debian 8.x
+  - V2406C Series 	Debian 7.x
+  - V2416A Series 	Debian 9.x
+  - V2426A Series 	Debian 7.x
+  - V2616A Series 	Debian 7.x
+  - DA-681C Series 	Debian 7.x
+  - DA-681A Series 	Debian 9.x
+  - DA-682C Series 	Debian 8.x
+  - DA-720 Series 	Debian 9.x
+  - DA-820C Series 	Debian 8.x
+  - MPC-2070 Series 	Debian 9.x
+  - MPC-2101 Series 	Debian 9.x
+  - MPC-2120 Series 	Debian 9.x
+  - MPC-2121 Series 	Debian 9.x
+  - ioThinx 4530 Series 	Firmware Edition 1.3 or lower
+
+
+Vulnerability risks:
+- Privilege escalation
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [MOXA](https://www.moxa.com/en/support/product-support/security-advisory/moxa-response-regarding-sudo-heap-based-buffer-overflow-vulnerability-cve-2021-3156)
+- [FR] [ANSSI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-127/)
+
+> ###### CVE :
+> - [EN] [CVE-2021-3156](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3156)
+
+
+---
+
 ## [RESSOURCES] Identification of vulnerabilities on IIoT equipment
-_17/02/2020_
+_17/02/2021_
 ```
 FireEye has published two research papers on vulnerabilities in ConnectPort X2e devices. These devices are used in residential solar installations.
 These articles explain how FireEye researchers discovered these vulnerabilities.
@@ -16,7 +72,7 @@ Source : https://www.fireeye.com/blog/threat-research/2021/02/solarcity-exploita
 ---
 
 ## [VULNERABILITY] Rockwell Automation Allen-Bradley Micrologix 1100
-_16/02/2020_
+_16/02/2021_
 ```
 Vulnerability affects :
 - Allen-Bradley MicroLogix 1100 revision number 1.0
@@ -38,7 +94,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Open Design Alliance Drawings SDK
-_16/02/2020_
+_16/02/2021_
 ```
 Vulnerability affects :
 - Drawings SDK: All versions prior to 2021.12 (Version 2021.11 is only affected by CVE-2021-25174 and CVE-2021-25173)
@@ -66,7 +122,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Hamilton-T1
-_16/02/2020_
+_16/02/2021_
 ```
 Vulnerability affects :
 -  Hamilton-T1 Ventilator Versions 2.2.3 and prior
@@ -87,7 +143,7 @@ See the documents below for more information
 
 ---
 ## [RESSOURCES] FireEye analyzes the TriStation protocol with reverse lookup on TRITON malware
-_16/02/2020_
+_16/02/2021_
 ```
 FireEye has published a research paper on the proprietary TriStation protocol used during the TRITON attack (https://www.cyberark.com/resources/threat-research-blog/anatomy-of-the-triton-malware-attack).
 The article details how the complex TriStation protocol works from the TRITON malware.
@@ -99,7 +155,7 @@ Source : https://www.fireeye.com/blog/threat-research/2018/06/totally-tubular-tr
 ---
 
 ## [VULNERABILITY] Rockwell Automation DriveTools SP and Drives AOP
-_11/02/2020_
+_11/02/2021_
 ```
 Vulnerability affects :
     - DriveTools SP v5.13 and below
@@ -123,7 +179,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Multiple Embedded TCP/IP stacks
-_11/02/2020_
+_11/02/2021_
 ```
 Vulnerability affects :
   - spoof TCP connections
@@ -166,7 +222,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] GE Digital HMI/SCADA iFIX
-_10/02/2020_
+_10/02/2021_
 ```
 Vulnerability affects :
 - HMI/SCADA iFIX: Versions 6.1 and prior
@@ -187,7 +243,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Advantech iView
-_10/02/2020_
+_10/02/2021_
 ```
 Vulnerability affects :
 - iView versions prior to v5.7.03.6112
@@ -211,7 +267,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Siemens SINEMA Server & SINEC NMS
-_10/02/2020_
+_10/02/2021_
 ```
 Vulnerability affects :
 - SINEC NMS: All versions prior to v1.0 SP1 Update 1
@@ -233,7 +289,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Siemens RUGGEDCOM ROX II
-_10/02/2020_
+_10/02/2021_
 ```
 Vulnerability affects :
 - RUGGEDCOM ROX MX5000: All versions prior to v2.14.0
@@ -266,7 +322,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Siemens TIA Administrator
-_10/02/2020_
+_10/02/2021_
 ```
 Vulnerability affects :
 - PCS neo (Administration Console): v3.0
@@ -287,7 +343,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Siemens JT2Go and Teamcenter Visualization
-_10/02/2020_
+_10/02/2021_
 ```
 Vulnerability affects :
 - JT2Go: All versions prior to v13.1.0.1
@@ -328,7 +384,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Siemens SCALANCE W780 and W740
-_10/02/2020_
+_10/02/2021_
 ```
 Vulnerability affects :
 - SCALANCE W780 and W740 (IEEE 802.11n) family: All versions prior to v6.3
@@ -348,7 +404,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Siemens SIMARIS configuration
-_10/02/2020_
+_10/02/2021_
 ```
 Vulnerability affects :
 - SIMARIS configuration: All versions
@@ -368,7 +424,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] SIMATIC WinCC Graphics Designer
-_10/02/2020_
+_10/02/2021_
 ```
 Vulnerability affects :
 - WinCC Graphics Designer used with the following DCS and SCADA products:
@@ -390,7 +446,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Siemens DIGSI 4
-_10/02/2020_
+_10/02/2021_
 ```
 Vulnerability affects :
 - DIGSI 4: All versions prior to v4.94 SP1 HF 1
@@ -410,7 +466,7 @@ See the documents below for more information
 ---
 
 ## [ATTACK] Attack on Florida's Watter Treatment System
-_10/02/2020_
+_10/02/2021_
 ```
 The attacker changed the level of sodium hydroxide in the water treatment plant of the town of Oldsmar.
 According to the town sheriff, the attacker used TeamViewer.
@@ -423,7 +479,7 @@ According to the town sheriff, the attacker used TeamViewer.
 ---
 
 ## [VULNERABILITY] Luxion KeyShot
-_04/02/2020_
+_04/02/2021_
 ```
 Vulnerability affects :
 - Luxion software
@@ -453,7 +509,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Horner Automation Cscape
-_04/02/2020_
+_04/02/2021_
 ```
 Vulnerability affects :
 - Cscape: All versions prior to 9.90 SP3.5
@@ -473,7 +529,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Hirschmann RSP, RSPE, and OS2 series HSR denial of service vulnerability
-_03/02/2020_
+_03/02/2021_
 ```
 Vulnerability affects :
 - Hirschmann HiOS RSP, RSPE, OS2 :
@@ -495,7 +551,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Rockwell Automation MicroLogix 1400
-_02/02/2020_
+_02/02/2021_
 ```
 Vulnerability affects :
 - MicroLogix 1400, All series Version 21.6 and below
@@ -515,7 +571,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Siemens SIMATIC HMI Comfort Panels & SIMATIC HMI KTP Mobile Panels
-_02/02/2020_
+_02/02/2021_
 ```
 Vulnerability affects :
 - SIMATIC HMI Comfort Panel (including SIPLUS variants): All versions before v16 Update 3a
@@ -536,7 +592,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] ABB AC500V2 Webserver denial of service vulnerability
-_02/02/2020_
+_02/02/2021_
 ```
 Vulnerability affects :
 - The following AC500 V2 products with onboard ethernet are affected :
@@ -600,7 +656,7 @@ Source :
 ---
 
 ## [VULNERABILITY] Fuji Electric Tellus Lite V-Simulator and V-Server Lite
-_26/01/2020_
+_26/01/2021_
 ```
 Vulnerability affects :
 - Tellus Lite V-Simulator: Versions prior to v4.0.10.0
@@ -794,7 +850,7 @@ cccf673f3c9c02f5f9a21346cdc91f78d94c92b3
 
 ---
 ## [VULNERABILITY] WAGO M&M Software fdtCONTAINER
-_22/01/2020_
+_22/01/2021_
 ```
 Vulnerability affects :
 - fdtCONTAINER component
@@ -825,7 +881,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Mitsubishi Electric MELFA
-_22/01/2020_
+_22/01/2021_
 ```
 Vulnerability affects :
 - MELFA robot controllers :
@@ -860,7 +916,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Honeywell OPC UA Tunneller
-_22/01/2020_
+_22/01/2021_
 ```
 Vulnerability affects :
 - OPC UA Tunneller: All versions prior to 6.3.0.8233
@@ -888,7 +944,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Delta Electronics TPEditor
-_22/01/2020_
+_22/01/2021_
 ```
 Vulnerability affects :
 - TPEditor: v1.98 and prior
@@ -931,7 +987,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] ABB - AC500 V2
-_20/01/2020_
+_20/01/2021_
 ```
 Vulnerability affects :
 - All AC500 V2 products with onboard ethernet
@@ -952,7 +1008,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Philips Interventional Workstations 
-_20/01/2020_
+_20/01/2021_
 ```
 Vulnerability affects :
 -  Haswell workstations labeled with 12NC identification numbers (4598 009 39471, 4598 009 39481, 4598 009 70861, 4598 009 98531) with :
@@ -977,7 +1033,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Dnsmasq  
-_20/01/2020_
+_20/01/2021_
 ```
 Vulnerability affects :
 - Dnsmasq DNS and DHCP server for version 2.8.2 and prior
@@ -1007,7 +1063,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Reolink P2P Cameras
-_20/01/2020_
+_20/01/2021_
 ```
 Vulnerability affects :
 - RLC-4XX series
@@ -1032,7 +1088,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] DNSpooq - Dnsmasq Vulnerabilities in SCALANCE and RUGGEDCOM Devices
-_19/01/2020_
+_19/01/2021_
 ```
 Vulnerability affects :
 - RUGGEDCOM RM1224 : All versions
@@ -1060,7 +1116,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] SOOIL Dana Diabecare RS Products
-_16/01/2020_
+_16/01/2021_
 ```
 Vulnerability affects :
 - Dana Diabecare RS: All versions prior to 3.0
@@ -1095,7 +1151,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Schneider Electric EcoStruxure Power Build-Rapsody
-_16/01/2020_
+_16/01/2021_
 ```
 Vulnerability affects :
 - EcoStruxure Power Build - Rapsody software Versions 2.1.13 and prior
@@ -1118,7 +1174,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Siemens SCALANCE X Switches
-_16/01/2020_
+_16/01/2021_
 ```
 Vulnerability affects :
 - SCALANCE X-200 switch family (incl. SIPLUS NET variants): All versions
@@ -1140,7 +1196,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Siemens JT2Go and Teamcenter Visualization
-_16/01/2020_
+_16/01/2021_
 ```
 Vulnerability affects :
 - JT2Go: All versions prior to v13.1.0
@@ -1175,7 +1231,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Siemens Solid Edge
-_16/01/2020_
+_16/01/2021_
 ```
 Vulnerability affects :
 - Solid Edge: All versions prior to SE2021MP2
@@ -1198,7 +1254,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Siemens SCALANCE X Products
-_16/01/2020_
+_16/01/2021_
 ```
 Vulnerability affects :
 - SCALANCE X-200 switch family (incl. SIPLUS NET variants): All versions
@@ -1226,7 +1282,7 @@ See the documents below for more information
 
 ---
 ## [VULNERABILITY] Delta Electronics CNCSoft ScreenEditor
-_05/01/2020_
+_05/01/2021_
 ```
 Vulnerability affects :
 - CNCSoft ScreenEditor Versions 1.01.26 and prior
@@ -1248,7 +1304,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Delta Electronics DOPSoft
-_05/01/2020_
+_05/01/2021_
 ```
 Vulnerability affects :
 - DOPSoft Version 4.0.8.21 and prior
@@ -1269,7 +1325,7 @@ See the documents below for more information
 
 ---
 ## [VULNERABILITY] Red Lion Crimson 3.1
-_05/01/2020_
+_05/01/2021_
 ```
 Vulnerability affects :
 - Crimson 3.1: Build versions prior to 3119.001
@@ -1295,7 +1351,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] GE Reason RT43X Clocks
-_05/01/2020_
+_05/01/2021_
 ```
 Vulnerability affects :
 - RT430, RT431 & RT434: All firmware versions prior to Version 08A06
@@ -1319,7 +1375,7 @@ See the documents below for more information
 
 ---
 ## [VULNERABILITY] Panasonic FPWIN Pro
-_05/01/2020_
+_05/01/2021_
 ```
 Vulnerability affects :
 - FPWIN Pro Version 7.5.0.0 and prior
@@ -1340,7 +1396,7 @@ See the documents below for more information
 ---
 
 ## [VULNERABILITY] Schneider Electric Web Server on Modicon M340
-_05/01/2020_
+_05/01/2021_
 ```
 Vulnerability affects :
 - M340 CPUs
